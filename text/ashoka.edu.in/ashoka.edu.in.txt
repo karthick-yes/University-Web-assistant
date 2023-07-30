@@ -1,0 +1,732 @@
+Students’ Guide
+Department of Computer Science
+Ashoka UniversityDEPARTMENT OF COMPUTER SCIENCE ,ASHOKA UNIVERSITY
+This guide was made by the CS Society in consultation with the CS Representative, Seniors, Alumni
+and Faculty members. The CS Society also acknowledges the work of the Economics Representatives
+in setting up the Students’ Guide for Economics, parts of which have been referred to while creating
+this document.
+DISCLAIMER : The information in this guide is meant to serve as a ready reference for students.
+Some information may become backdated with changes in curriculum, policies etc. Thus, you are
+requested to conﬁrm the latest updates from the ofﬁcial website and/or the CS Student Representative
+before taking any action.
+First release, Monsoon 2020Contents
+1 Overview ......................................................5
+1.1 Degree Requirements at Ashoka 5
+1.2 GPA and Credit System 5
+1.3 CS at Ashoka 6
+1.3.1 Programs Offered ..................................................6
+1.3.2 Faculty and Research Interests .......................................6
+2 Curriculum .....................................................7
+2.1 CS Major Requirements 7
+2.1.1 CS Core Courses ..................................................7
+2.1.2 CS Elective Courses ................................................8
+2.1.3 A CS Major’s recommended path ....................................8
+2.2 Advanced Major in CS (ASP) 8
+2.3 CS Minor Requirements 9
+2.4 Interdisciplinary Majors 9
+2.4.1 CS and Mathematics ...............................................9
+2.4.2 CS and Entrepreneurship ............................................9
+2.5 CS Concentration Requirements 9
+3 Academic Opportunities .......................................11
+3.1 Complimentary Disciplines 11
+3.2 Study Abroad Programs 114
+3.3 Teaching Assistantships 11
+3.4 Independent Study Modules (ISM) 12
+3.5 Research Opportunities with Professors 12
+3.6 Awards and Recognition 12
+4 CS Clubs and Societies ........................................13
+4.1 CS Society 13
+4.2 Women in Computing Society (WiCS) 14
+4.3 Special CS Events 14
+5 Additional Resources and Advice ..............................15
+5.1 University Resources 15
+5.1.1 Library .........................................................15
+5.1.2 IEEE Explore and ACM Digital Library ..................................15
+5.1.3 Ofﬁce Hours .....................................................15
+5.1.4 Teaching Assistants/ Fellows .........................................15
+5.1.5 CS Help-desk ....................................................16
+5.1.6 CS Representative ................................................16
+5.2 Faculty Advice 16
+5.2.1 General Advice ..................................................16
+5.2.2 Book/ Resource Recommendation ...................................17
+5.3 Post-Ashoka Journey 17
+5.3.1 Advice on Internships and Job Search ................................17
+5.3.2 On Letters of Recommendation from Faculty ...........................17
+5.3.3 Alumni Experiences in the Industry ...................................18
+5.3.4 Alumni Experiences in Higher Education ...............................20
+5.4 Useful Contacts 251. Overview
+1.1 Degree Requirements at Ashoka
+To graduate with a Bachelor’s degree, students are required to pass courses that are broadly divided
+into three categories – Foundation Courses ,Major Courses (including Interdisciplinary Majors)
+andCo-Curricular Courses . First year students typically take foundation courses in the ﬁrst 3-4
+semesters at Ashoka, and start taking Major courses from the 2nd semester.
+You also have the option to take up a completely different subject as a minor or a concentration in
+addition to your major. Minors and Concentrations are brief programs taken in disciplines other than
+your major. Minors at Ashoka require you to take 6 courses in a discipline, while a concentration
+requires 4 courses.
+1.2 GPA and Credit System
+Please note that University-wise credit requirements are subject to change, and the latest requirements
+are always available on the ofﬁcial website .
+At Ashoka, each course carries credit points - foundation courses as well as major speciﬁc and minor
+courses typically earn a student 4 credit points , while co-curricular courses give 2 credit points . In
+order to earn their degree at the end of three years, students pursuing a pure major (such as Computer
+Science etc.) need to have accumulated a minimum of 100 credits . On the other hand, students
+pursuing an interdisciplinary major (such as CS and Entrepreneurship etc.) must fulﬁll a minimum
+of116 credits . A student’s performance in any academic course is graded on a letter scale (ranging
+from A to F). Each grade carries a grade point (such as an A gives 16 grade points, while an A- gives
+14.8). On this basis, at the end of every semester a student’s cumulative grade point average (CGPA)
+and semester speciﬁc GPA are calculated. For more on this, please refer to the section on Awards
+and Recognition (3.6).6 Chapter 1. Overview
+1.3 CS at Ashoka
+The Department of Computer Science at Ashoka University acknowledges the increasing relevance
+of computing and information science to every academic discipline. In addition to classical and
+emerging areas of Computer Science, students have an opportunity to study interdisciplinary areas
+like computational biology, social and information networks, digital humanities and data-driven
+journalism. 2 interdisciplinary majors, a minor, a concentration are also offered by the Department
+in addition to an undergraduate major in Computer Science and a Ph.D. in Computer Science.
+The goals of the programme include (but are not limited to):
+1.Impart a deep understanding of the foundations of Computer Science
+2.Enable a student to be able to systematically apply the foundational knowledge across disci-
+plines
+3.Create new knowledge in the ﬁeld of Computer Science
+1.3.1 Programs Offered
+•Undergraduate
+–Major
+–Interdisciplinary Major
+–Advanced Major–Minor
+–Concentration
+•PhD
+•Graduate Assistantship
+1.3.2 Faculty and Research Interests
+•Ravi Kothari , Professor (HOD Com-
+puter Science) Machine Learning, Pattern
+Recognition, Data Mining and Big Data
+•Sudheendra Hangal , Professor of the
+Practice in Computer Science Human-
+Computer Interaction, Social Media and
+Personal Digital Archives
+•Manu Awasthi , Associate Professor Com-
+puter Architecture, Operating Systems, and
+Computers & Society
+•Anirban Mondal , Associate Professor Ur-
+ban Informatics (Smart Cities), Spatial
+Databases and Financial Analytics
+•Mahavir Jhawar , Assistant ProfessorCryptography, Block-chain and Network
+Security
+•Debayan Gupta , Assistant Professor Se-
+cure Computation, Cryptography, and Pri-
+vacy
+•Goutam Paul , Associate Professor (Visit-
+ing - Spring 2020, Monsoon 2018) Cryp-
+tology, Security, Information and Coding
+Theory, Quantum Information and Compu-
+tation
+•Subhash Bhalla , Professor (Visiting -
+Monsoon 2020, Spring 2021) Distributed
+Database Systems, New Query Languages
+For a complete list of all faculty (core and visiting) and PhD students pursuing CS at Ashoka, visit
+thedepartmental website .2. Curriculum
+2.1 CS Major Requirements
+While our attempt is to provide the most accurate information, the CS curriculum at Ashoka is
+frequently updated to remain relevant. Thus, please conﬁrm the requirements with the version on the
+departmental website before taking any action. Incase of any conﬂict, refer to the version on the
+website.
+To receive a B.Sc. degree with a Major in Computer Science at Ashoka University, students must
+accumulate 100 credit points at the end of three years. The course divisions and credit points
+requirement within three years for a Major in Computer Science are as follow:
+•Foundation and Critical Thinking courses
+•Co-Curricular courses (4 credits)
+•Computer Science Major courses
+–The course division for Computer Science Major courses is given below:
+1.Compulsory 10 core courses for 40 credits.
+2.A minimum of 20 credits of electives offered by the CS department.
+•Other Courses
+2.1.1 CS Core Courses
+These are the courses you have to take in order to obtain a BSc. (Hons) degree in CS from Ashoka.
+Please note that the references books mentioned aren’t ofﬁcial recommendations.
+1.Discrete Math
+2.Probability and Statistics
+3.Introduction to Computer Program-
+ming
+4.Computer Organization and Systems
+5.Advanced Programming6.Operating Systems
+7.Algorithm Design and Analysis
+8.Computer Networks
+9.Introduction to Machine Learning
+10.Programming language Design and Im-
+plementation8 Chapter 2. Curriculum
+2.1.2 CS Elective Courses
+Here’s a non-exhaustive list of popular CS Elective courses that have been offered at Ashoka:
+1.Theory of Computation
+2.Computer Security and Privacy
+3.Data Mining and Warehousing
+4.Database Management Systems
+5.Unstructured Information Processing
+6.Advanced Algorithms7.Advanced Computer Architecture
+8.Advanced Machine Learning
+9.Block-chain and Cryptocurrencies
+10.Distributed Systems
+11.Linear Algebra
+Please Note: ISMs count towards your electives, but there’s a cap on the number of ISMs
+you can take.
+2.1.3 A CS Major’s recommended path
+•1st Semester
+–No CS courses
+•2nd Semester
+–Introduction to Computer Program-
+ming
+–Discrete Mathematics
+•3rd Semester
+–Probability and Statistics
+–Computer Organization and Systems
+–Advanced Programming
+•4th Semester
+–Algorithm Design and Analysis–Operating Systems
+–CS Elective
+•5th Semester
+–Computer Networks
+–Introduction to Machine Learning
+–Programming Language Design and
+Implementation
+–CS Elective
+•6th Semester
+–CS Elective
+–CS Elective
+–CS Elective
+2.2 Advanced Major in CS (ASP)
+To graduate with a Postgraduate Diploma in Advaced Studies and Research (DipASR) in Computer
+Science at Ashoka University, students must accumulate 32 credit points at the end of one year. The
+course divisions and credit points requirement for a DipASR in Computer Science are as follows,
+1.A minimum of 32 credit points are required.
+2.Of these 32 credits, a minimum of 16 credits must come from Computer Science courses.
+3.Of these 16 credits, 4 credits must come from CS498: Capstone Project.
+Some additional notes on the Capstone Project and the Capstone Thesis:
+•CS498: Capstone Project [4 Credits]: A Capstone Project is done under the guidance of
+a faculty member and is aimed at encouraging a student to solve a complex problem. A
+Capstone Project is largely implementation focused.
+•CS499: Capstone Thesis [8 Credits]: A Capstone Thesis is not mandatory. Enrollment
+in Capstone Thesis requires the approval of a faculty member who will take into account
+one’s performance in CS498 along with other aspects (including what is being proposed). A
+Capstone Thesis is largely research focused.2.3 CS Minor Requirements 9
+2.3 CS Minor Requirements
+In order to get a Minor in Computer Science, students are required to take 24 credits made up as
+follows,
+1.Introduction to Computer Programming
+2.Five more CS courses. Of these ﬁve, at least 3 of them must be CS core courses.
+2.4 Interdisciplinary Majors
+For the latest information, refer to the departmental website .
+In order to Major in an interdisciplinary program, students must accumulate 116 credit points in three
+years. The Computer Science department offers two interdisciplinary Majors - (i) Computer Science
+and Mathematics , and (ii) Computer Science and Entrepreneurship . The course divisions and
+credit points requirement within three years for these two Interdisciplinary Major are as follows,
+1.Foundation and Critical Thinking courses (28 credits)
+2.Interdisciplinary Major courses (76 credits)
+3.Co-Curricular courses (4 credits)
+4.Other courses (8 credits)
+2.4.1 CS and Mathematics
+The course division between Computer Science and Mathematics department for this interdisciplinary
+Major is given below.
+•A minimum of 36 credits must come from Computer Science department. Of these 36 credits,
+a minimum of 28 credits must come from ”Computer Science core course list for CS+Math
+interdisciplinary Major”. The core list is given below.
+•A minimum of 36 credits must come from the Mathematics department. Of these 36 cred-
+its, a minimum of 28 credits must come from ”Mathematics core course list for CS+Math
+interdisciplinary Major”. The core list is given below.
+•The remaining 4 credits can come from any Computer Science/Mathematics courses.
+•Computer Science
+Introduction to Computer Programming
+Computer Organization and Systems
+Algorithm Design and Analysis
+Computer Networks
+Introduction to Machine Learning
+Computer Security and Privacy
+Theory of Computation•Mathematics
+Calculus
+Linear Algebra
+Algebra I
+Probability
+Real Analysis
+Multivariable Calculus
+Statistics
+2.4.2 CS and Entrepreneurship
+For this interdisciplinary Major, students, in addition to 4 courses (16 credits) in the Entrepreneurship
+department, must complete all Computer Science pure Major requirements.
+2.5 CS Concentration Requirements
+In order to get a Concentration in Computer Science, students are required to take any four (16
+credits) Computer Science courses.3. Academic Opportunities
+3.1 Complimentary Disciplines
+Computer Science is a very versatile subject - with applications transcending multiple disciplines. At
+Ashoka, we have 2 interdisciplinary courses in CS, along with Entrepreneurship and Mathematics.
+Apart from these, it is also common for students studying CS at Ashoka to enroll in courses from
+Mathematics, Economics, Physics and Biology.
+3.2 Study Abroad Programs
+Note that, like any other program at Ashoka, the Study Abroad Programs are subject to changes.
+Kindly refer to the GESP website for the latest information. Additionally, contact the departmental
+HOD for further clariﬁcation regarding credit transfers
+Every summer, international summer schools offer undergraduate courses in different subjects and
+ﬁelds. These courses can be transferred (subject to faculty approval) to the total credits taken
+as Ashoka. The Ofﬁce of Global Education and Strategic Programmes (GESP) is available to
+students for assistance and counselling in the application process.
+Ashoka is currently partnered with Wellesley College, UC Berkeley, University of Pennsyl-
+vania, Yale University, King’s College London, University of Michigan, Penn Engineering,
+Sciences Po, and Trinity College Dublin .
+Students can also apply for research and internship opportunities abroad to get practical experience
+in their ﬁelds of interest through a competitive process. These opportunities are available in Lehigh
+University, NTU Singapore, Koç University etc. For any enquiries on the process of applying for a
+summer/semester abroad, kindly email studyabroad@ashoka.edu.in
+3.3 Teaching Assistantships
+As a TF/TA, you would be responsible for grading quizzes, holding discussion sessions and doubt
+clearing ofﬁce hours, as well as helping with the logistics for classes. A prospective applicant can12 Chapter 3. Academic Opportunities
+apply to TA for only those courses which they have already studied in Ashoka in the past. While
+preference may be given to seniors, anyone is welcome to apply for TAship by approaching the
+professor directly. Some courses may have different procedures, so do conﬁrm it with the instructor.
+3.4 Independent Study Modules (ISM)
+Independent Study Modules (ISM) are 4-credit research projects that provide students an opportunity
+to work closely with a faculty member. These projects can either be research that faculty members
+are already working on or any other research topic that students may be interested in. If interested,
+you can simply approach a faculty member through email prior to the start of the semester, requesting
+them for guidance through an ISM. These count towards your electives.
+3.5 Research Opportunities with Professors
+If you are interested in CS Research, it is a great idea to start working as a Research Assistant (RA)
+under a faculty member. In order to do so, you will have to personally approach faculty members in
+their ofﬁce hours and enquire whether you can assist them on current projects. Before seeking RA
+roles, make sure to have prior knowledge about the research interests of your faculty member. The
+CS Society also has plans of creating a uniﬁed Undergraduate Research Opportunities Platform to
+ease out this process.
+3.6 Awards and Recognition
+•Dean’s List: The Dean’s List at Ashoka for any given semester includes the names of all
+students who, in the courses they have taken that semester, have scored a GPA of 3.65 or
+above. The Dean’s List is awarded on a semester basis.
+•Latin Honors: Students who have achieved scholastic distinction may be awarded the bach-
+elor’s degree with Latin honors at graduation. Honors appear on the ofﬁcial transcript and
+diploma. The criteria for these honors is as follows:
+1.Cum Laude (With Distinction) - GPA >3.6
+2.Magna Cum Laude (With High Distinction) - GPA >3.75
+3.Summa Cum Laude (With Highest Distinction) - GPA >3.9
+•Academic Achievement Awards: Gold Silver and Bronze Awards are awarded respectively
+to the students attaining the Top 3 Major CGPAs during graduation.
+•Undergraduate Research Excellence Awards: Awarded to the graduating student with the
+best track record in academic research, evaluated on the basis of publications and thesis quality.
+•Service Excellence Awards: Awarded for extraordinary service in department building
+through various activities..4. CS Clubs and Societies
+4.1 CS Society
+The Computer Science Society at Ashoka University was founded in 2016 to strengthen the emerging
+CS culture on campus. It is an academic society that aims to create opportunities and resources
+for all students interested in this ﬁeld through a host of activities. Past events include Mahavamsa -
+Ashoka’s ﬁrst programming contest, hackathons, cryptic hunts, talks and workshops. Students across
+majors and disciplines are welcome to join!
+The CS Society is currently undergoing major structural changes. These include:
+•Formation of sub-departments such as Competitive Programming ,Software Development ,
+Machine Learning and Data Science as per the interests of the student members of the
+society.
+•Weekly training and mentor-ship programs , occasionally involving well qualiﬁed guest
+instructors.
+•Creating a uniﬁed portal for Undergraduate Research Opportunities - to bring interested
+undergraduates and faculty members, PhD students etc. together.
+•A larger presence on social media and public forums, including a public website and technical
+blogs.
+Reach out to us at cs.society@ashoka.edu.in.14 Chapter 4. CS Clubs and Societies
+4.2 Women in Computing Society (WiCS)
+Founded by an Ashoka alumnus, Simran Bhuria, and launched on campus by Mrs. Rashmi Mohan,
+an ACM eminent speaker on 29th September 2016, Women in Computing Society is a small bunch
+of passionate students working towards making the CS culture at Ashoka a safer, healthier, and
+inclusive one. We also focus on supporting everyone in CS, especially womxn, academically and
+personally. We constantly work towards building a larger community of womxn in CS that is
+collaborative and supportive in nature. As an academic society, we organise talks, hackathons,
+cryptic hunts, workshops, problem-solving centered stalls and events, and reading groups. As a part
+of our larger vision of an inclusive community, we organise events focused on activism – blog posts,
+discussions on gender in academic spaces and sexism, sessions on building conﬁdence and tackling
+other challenges for womxn in STEM and movie screenings!
+1.WiCS cryptic hunts: We have had multiple hunts since the inception of WiCS based on
+different themes in collaboration with other societies such as – Ashoka’s Philosophy Society,
+Ashoka’s Psychology Society, Sandhi (Ashoka’s Languages Society), Ashoka Society for
+Politics, etc.
+2.Workshops: These are focused on tools and skills useful for students in CS and beyond. We
+have done workshops on Git, web development, programming for beginners (Programming
+without Code), Excel/Google Sheets etc.
+3.Interactive sessions: Some of the sessions we have organised in the past: a session with Prof.
+Jennifer Widom, Stanford University at Ashoka (2018), a Capstone Student Panel Discussion
+with senior students and alumni, an open house for CS students focused on discussions around
+gender in academic spaces, mixers for CS womxn.
+4.Problem-solving centered stalls at fests and Haats: These were our attempts at sharing the
+joy of solving puzzles and love for algorithms with others at Ashoka.
+5.Hackathons, collaborative work sessions focused on competitive programming, and unwinding
+sessions.
+Reach out to us at wics@ashoka.edu.in.
+4.3 Special CS Events
+•CS Mixer: The CS Mixer is a unique initiate undertaken by the Department of CS every year,
+intended primarily to introduce the CS freshers to the seniors and members of the faculty. It
+is a fun event where you get to interact with all the faculty members, seek quick advice, all
+while enjoying free food!
+•Mahavamsa: Mahavamsa is Ashoka’s ﬁrst coding contest. It is a 48 hour coding contest
+with lots of cash prizes to be won. The contest is open to all current students of Ashoka
+University. Beginners and non-CS majors are also encouraged to participate. All you need is
+basic programming knowledge in a language of your choice! The ﬁrst edition of Mahavamsa
+was held in Spring 2020 and the CS Society intends to make it a recurring event.5. Additional Resources and Advice
+5.1 University Resources
+5.1.1 Library
+Ashoka University provides access to a diverse set of resources through its Library. The Ashokan
+Library plays an essential role in the university, offering students access to both print and digital
+media. As an Economics major, you can access many such resources including textbooks, fun reads,
+magazines, academic papers, through both on-campus issue of books or remote access to eBooks.
+For more information on library resources, you can simply visit their website. Happy exploring!
+5.1.2 IEEE Explore and ACM Digital Library
+•ACM (Association for Computing Machinery) Digital Library: Archives of 2500 -Conference
+proceedings. 53 Peer-reviewed Journals, 8 Technical magazines, 37 Technical newsletters.
+Visit https://dl.acm.org/ , while within the campus network. Unlimited access and downloads.
+•IEEE Explore: Archives of 44,499+ articles, 35, 921+ Transactions articles, 523,853+
+Conference paper, 283+ Letters articles. Visit https://ieee.org/ieeexplore while within the
+campus network. Unlimited access and downloads.
+5.1.3 Ofﬁce Hours
+Often scheduled twice a week, based on the convenience of the instructor, ofﬁce hours are cabin
+appointments where students can individually discuss doubts and problems either in relation to the
+course material, or any other personal issues with the instructor.
+5.1.4 Teaching Assistants/ Fellows
+The TA/TF acts as an additional resource that the students can consult before reaching out to the
+instructor. The TA/TF can provide individual assistance to each student, keeping in mind speciﬁc
+concerns, while at the same time creating a friendly peer-assistance environment. In order to contact
+your TA/TF, you can simply email them on their Ashoka TA/TF email ID’s which will be provided
+to you at the onset of the course.16 Chapter 5. Additional Resources and Advice
+5.1.5 CS Help-desk
+The CS Help-desk is currently a pilot program, organised by seniors within the CS Society. You’ll
+have student tutors that will help you with coding, related math, and concepts, aimed to provide
+additional support during your coursework in your ﬁrst year. The CS Society will send you email
+updates notifying you about the timings of the Helpdesk and appointments can be made by ﬁlling up
+available slots.
+5.1.6 CS Representative
+For the current academic year, the CS Student representative is Sehajpreet Kaur . When in doubt,
+feel free to bug her with anything CS related.
+5.2 Faculty Advice
+5.2.1 General Advice
+Welcome to CS@Ashoka!
+Computer Science, goes the joke (hint: they’re not joking), has little to do with com-
+puters and is not really a science. If you really push me, I’d say that it is a study of
+processes, of understanding why and how things happen, and their inherent complexity:
+is one problem truly harder than another? E.g., is it more difﬁcult to ﬁnd a square root
+than a 3rd root? Why? (Maybe there’s an easy trick for one and we’re just being stupid.)
+Personally, I love this subject because it’s the closest thing to magic we have. We create
+our incantations (computer programs), prepare the appropriate sacriﬁces (sleep is the
+common currency used by undergraduates, I believe), and wave our wands (or macbooks
+dual-booting linux): our spells can travel across the world across the only planetary-scale
+infrastructure ever built by humanity, jumping across chains of electrons and photons
+in a system that stores (nearly) the sum total of human knowledge (and ignorance).
+Our spells can analyse your iris and detect diabetes well before any medical doctor
+could, and also tell the hospital how to best optimise their supplies; they can navigate
+our spacecraft across unimaginable distances and help us understand the universe; they
+can connect us all through social media and buoy industry through a pandemic via
+e-commerce. There’s a dark side as well - all things can be misused.
+I hope to teach you a lot about computer science. But I don’t just want well-trained
+worker bees: I want brilliant, nuanced thought; I want technical knowledge balanced by
+moral ﬁbre; but most of all, I want each and every one of you to become the very best
+human beings you can be (that, and understand pointers properly).
+PS. Yes, computer scientists tend to use more parentheses than most other people (and
+what’s wrong with that?).
+-Debayan Gupta , Assistant Professor, Ashoka University5.3 Post-Ashoka Journey 17
+5.2.2 Book/ Resource Recommendation
+Textbooks/ Reference books recommended by Faculty:
+1.Introduction to Algorithms by Cormen, Leiserson, Rivest, and Stein
+2.The C Programming Language by Kernighan and Ritchie
+3.The C++ Programming Language by Bjarne Stroustrup
+4.Database System Concepts by Avi Silberschatz
+5.Computational Complexity: A Modern Approach by Barak and Arora
+6.Introduction to Modern Cryptography by Katz and Lindell
+7.Cryptography and Network Security by Stallings
+8.Compilers: Principles, Techniques, and Tools by Aho, Lam, Sethi, and Ullman
+9.Artiﬁcial Intelligence: A Modern Approach by Norvig and Russell
+10.Computer Networks by Tanenbaum
+11.Computer Architecture: A Quantitative Approach by Hennessy and Patterson
+12.Modern Processor Design by Shen and Lipasti
+Other fun reads:
+1.Gödel, Escher, Bach by Douglas Hofstadter
+2.I am a Strange Loop by Douglas Hofstadter
+3.The Art of Computer Programming by Donald E. Knuth
+4.The Age of Surveillance Capitalism by Zuboff
+5.Why Can’t We All Just Get Along? by Fry and Lieberman
+6.Propaganda by Bernays
+7.Discourses on Livy by Machiavelli
+5.3 Post-Ashoka Journey
+5.3.1 Advice on Internships and Job Search
+Internships are often a great way to explore work-roles. Ashoka University offers a 3-month long
+summer break, which you can utilize productively by interning. It is advisable to search for summer
+internships at least 2-3 months prior to the start of the break - most ﬁrms or research centers have
+deadlines that you should research about as early as possible. Moreover, Ashoka University’s Career
+Development Ofﬁces (CDO) also provide internship opportunities through ﬁrms that recruit interns
+on campus.
+If you’re applying through CDO, keep your SuperSet proﬁle updated to avoid last-minute hassle.
+For CS speciﬁc internships, do occasionally brush up on your Data Structures and Algorithms .
+5.3.2 On Letters of Recommendation from Faculty
+Graduation School applications often require letters of recommendation from faculty during the
+admissions process. An optimal letter-writer should ideally have you in at least one class or should
+have supervised you in research, thesis, or other work. Moreover, their contact with you should be
+relatively recent. You might also want to consider how well you performed in their class or work and
+whether you have had interactions with them outside of the classroom.
+Note that different professors may have different rules related to Letters of Recommendation,
+thus make it a point to get in touch with your desired letter-writer and clarify all details well in
+advanced. Also, approach the faculty at least 2 weeks in advanced for them to be prepared.18 Chapter 5. Additional Resources and Advice
+5.3.3 Alumni Experiences in the Industry
+Barun Parruck (UG’19)
+Q:What does your current role at Google India entail?
+A:I’m a Software Engineer 2 at Google, speciﬁcally an iOS full stack developer within the
+Google One team. My day to day work involves ﬁxing bugs assigned to me, proposing and
+implementing new features, and writing unit tests for these features.
+Q:You were active on competitive programming websites. How helpful do you think that
+was in helping you secure an internship at Microsoft and the subsequent job offer?
+A:They were perhaps the main feature of how I got the internship. Getting the job offer from
+the internship was a completely different task, and primarily involved making extensive
+contributions to their codebase and presenting and demo’ing my additions constantly over the
+period of the internship.
+Q:During your time at Ashoka, what were your favorite courses? Other than Program-
+ming, what area of CS intrigued you the most?
+A:Software Debugging is probably the most useful course I’ve ever taken. Most of my interest lies
+in either algorithmic problem solving or full stack web development and software architecture.
+My favourite course was Databases and Data Mining (Debapriyo Majumdar), followed closely
+by Computer Organization and Systems (Vivek Seshadri)
+Q:Any pitfalls one should avoid while studying CS at Ashoka?
+A:Avoid taking too many courses (though deﬁnitely attend a single class of every single course,
+just in case you’re missing out on some exceptional professors). I think a lot of people get
+caught up with the idea that the goal is the submission of the assignment. I’ve had bad grades
+now and then - but I’ve tried my best to make sure that every assignment submitted wasn’t for
+the submission but for the content. And start early! :P
+Q:What advice would you give to undergraduates who wish to join the industry?
+A:Deﬁnitely I’d say you need to focus on getting your interviews right. I seem to do pretty well in
+traditional SWE interviews and a large part of that comes from my competitive programming
+background, as well as just grinding leetcode and practicing mock interviews a lot. If you
+don’t interview often, it’s quite likely that stress will act up and cause you to perform subpar.
+And reach out to seniors, professors, anybody - connections are important in the industry re:
+getting referrals. Participate in all the popular company recruitment drives like the Facebook
+Hacker cup, or the Google Code jam/kickstarter. And ﬁnally, you can always reach out to
+recruiters on Linkedin if you’ve got a decent proﬁle to be able to bring a more personal touch
+to the applications you make
+Barun Parruck is a Software Engineer at Google Inc. He was formerly a Software Engineer at
+Microsoft where he had also interned in his junior year. As a student, Barun was very active on
+competitive programming websites like Codeforces5.3 Post-Ashoka Journey 19
+Nishka Dasgupta (ASP’19)
+Q:What does your current role at Microsoft Research Lab, India entail?
+A:I work as a Research Fellow. Under the guidance of my manager, I am currently trying to
+develop efﬁcient protocols in Multiparty Computation (MPC).
+Q:What do you think, helped you secure your current role?
+A:Both my previous summer internships had been research-focused, speciﬁcally on cryptography
+projects, so that certainly played a factor. By fortunate coincidence, my most recent internship
+before I applied had been in multiparty computation (MPC), and the manager whom I applied
+to work with was also interested in MPC at the time, so our research interests aligned. Having
+strong recommendations also helped.
+Q:How should one prepare for job/internship searches?
+A:While not every role will have the same requirements, there are some general best practises
+that have helped me. Cover your bases before any interview or exam; a lot of interviews, even
+for speciﬁc roles, often expect a breadth of basic knowledge anyway. Be prepared to network
+and ﬁnd out which of your professors (especially professors who have a positive impression of
+you) knows someone who knows someone who works at your dream company/university. Talk
+to your seniors, batchmates and professors as well, to learn about opportunities you would not
+have heard of otherwise (that’s how I learned about the RF programme at MSR). Don’t take
+rejection personally; focus on learning from your mistakes. Try not to bluff too hard about
+your interest or knowledge regarding any ﬁeld/professor unless you are prepared to put in the
+work until you really are as dedicated/knowledgeable as you claimed to be.
+Q:Any pitfalls one should avoid while studying CS at Ashoka?
+A:As most of the professors don’t really impose a speciﬁc language, it can be easy to get too
+comfortable with only one language. This is a mistake. Look for excuses to learn new
+languages or frameworks that you are not being forced to learn in a class, especially those
+popularly used in your preferred ﬁeld (e.g most big crypto projects are written in C/C++) or
+in the industry at large. Python is delightful up until your job interviewer asks you questions
+about memory errors in C. Although mathematics courses are not compulsory for CS at
+Ashoka, some ﬁelds (and grad schools) will expect certain courses (e.g a Linear Algebra
+requirement for AI focused programmes; a Number Theory requirement for theoretical crypto).
+If you have a preferred ﬁeld, do your research on what is needed (talk to relevant professors
+too) and plan your courses accordingly.
+Q:Any advice for undergraduates about the Industry?
+A:Long working hours are, unfortunately, the norm, whether in research or in development.
+Especially near deadlines, sleep can be hard to come by. So, start working on your ability to
+handle stress. In research speciﬁcally, you will often be expected to take the lead and start
+making suggestions instead of waiting for your mentor to tell you what to do next; if you have
+trouble with that, start practising.
+Nishka is a Research Fellow at Microsoft Research Labs, India. She has interned at Nanyang
+Technlogical University - Singapore, and Tata Institute of Fundamental Research - Mumbai, as an
+undergraduate researcher.20 Chapter 5. Additional Resources and Advice
+5.3.4 Alumni Experiences in Higher Education
+Anavi Kajla (ASP’18)
+Q:You pursued your Masters in Human-Computer Interaction. How good a ﬁeld, in your
+opinion, is HCI for someone who wants to study Computer Science in sync with the
+Humanities?
+A:HCI is a highly interdisciplinary ﬁeld and can draw from virtually any discipline. A degree
+in CS and then going into HCI is highly beneﬁcial because you have a deeper understanding
+of software development and various technical constraints. Ultimately, any job in UX will
+involve a high degree of communicating with developers about the designs you create and
+knowing how they work gives you an advantage.
+Q:You have also interned at Amazon. What skills do such companies look for while hiring
+students who specialize in UI/UX? Do Data Structure and Algorithm skills take prece-
+dence? Or are Software Engineers who work on UI/UX projects evaluated differently?
+A:There are 4 paths someone interested in UI/UX can take: UX Designer, UX Engineer, Visual
+Designer and UX Researcher. Skills & evaluation depends on which role you’re interested
+in and usually doesn’t require knowledge of CS concepts we’re taught in our major. I would
+highly recommend looking up these specializations for a more in-depth understanding of what
+each role entails and where your interests/strengths lie. There are skills common to all these
+that employers typically look for: a portfolio of projects (super important!), storytelling skills,
+creative problem-solving and the ability to communicate well with others. In my case, I was
+exclusively an SDE and didn’t have much of a UI/UX component in my internship apart from
+working on a small front-end project.
+Q:What parameters would you advise an undergrad at Ashoka to focus on, if they wish to
+pursue graduate studies in Human-Computer Interaction?
+A:Since most CS classes at Ashoka have a project component in them, it would be beneﬁcial
+if students could go and talk to actual users of the product they’re building and get feedback
+on it! This would help them understand the importance/role of UX in product development
+and also, make for a great portfolio project. Apart from that, getting familiar with various
+prototyping tools (eg. Sketch, Figma) is a great place to start developing interaction & visual
+design skills. Some of these tools also offer students free plans! And, front-end skills are a
+bonus too.
+Q:Are there any pitfalls one should avoid while studying CS at Ashoka?
+A:The Ashoka CS department has grown a lot since I graduated and students should take
+advantage of the variety of classes offered to develop their interests. When I was attending,
+my batchmates & I would take whichever course was offered so we could complete our major!
+It didn’t afford us the ﬂexibility to take classes that we were genuinely interested in. Apart
+from one introductory HCI class in my second year, I wasn’t able to study more topics in the
+ﬁeld. But now hopefully you can!5.3 Post-Ashoka Journey 21
+Q:What advice would you give to undergraduates who wish to eventually join the industry
+in a similar ﬁeld?
+A: –Try to involve users in your class projects early to get a feel of the work you’ll be doing
+as a UXer
+–Working on a portfolio takes time, so start early! (look here for inspiration)
+–Research the ﬁeld and it’s many specializations well before you decide to take the leap -
+it’s not for everyone
+Anavi is currently a product designer at the Library of Congress - USA. She pursued her Masters in
+Human Computer Interaction from the University of Maryland-College Park. She has also interned
+at Amazon as a Software Development Engineer
+Pratyush Ranjan Tiwari (ASP’20)
+Q:What are your current research interests?
+A:My main research area of interest is cryptography. My areas of interests within cryptography
+are veriﬁable computation, quantum cryptography, privacy-preserving techniques and funda-
+mentals of cryptography. I am particularly interested in designing protocols with minimal trust
+requirements.
+Q:What undergraduate research that you have undertaken are you the proudest of?
+A:Two main projects: a) Is the paper I published at IEEE Security and Privacy on the Blockchain
+titled CryptoWills, which is a protocol for secure and private last wills for cryptocurrencies.
+This allows for people’s funds in cryptocurrencies to be distributed to their loved ones after
+they passed away, this is a ﬁrst protocol solving that problem. b) Security & Privacy and
+attacks on Aadhaar: I worked on this with a big team of people at Ashoka under Prof. Debayan
+Gupta. My personal contribution was towards the cryptography used in Aadhaar, I devised
+the biggest attack on Aadhaar till date. The paper is embargoed and we are awaiting govt.
+permission to publish.
+Q:Any pitfalls one should avoid while studying CS at Ashoka?
+A:Don’t do things because other people think they’re cool. Find out for yourself if working for a
+big tech company will actually be your dream job. Since Ashoka is new and we don’t really
+get the FAANG companies to visit and hire, people at Ashoka CS often develop this fantasy
+for such jobs. Do internships to ﬁgure out what a career in a particular direction is like, do
+an internship with some startup in Bangalore/some other city in India (and abroad too if you
+can) to ﬁnd out what it’s like living that life. Intern at a university in India (and abroad too
+if you can) to ﬁgure out what life in academia is like. Bottomline, whatever possible career
+trajectories you want to try out, do that a lot, even if it costs you some grades (tbh, don’t drop
+below 3.5 tho).Start looking for internships for the next summer from August, ask professors
+to connect you with people. After the summer before 4th year you can basically have a plan
+then on what to do next. Finding jobs/grad schools etc. will take a year and thats’ what the22 Chapter 5. Additional Resources and Advice
+4th year is for. Try different dept. at Ashoka and their courses, doing interdisciplinary things
+opens new doors career wise. Only work with people you enjoy working with. Don’t fall
+into the classic CS stereotype, and be healthy, well rounded and don’t let your major be your
+identity.
+Q:How should one prepare for Grad School applications?
+A:Once you know you’re applying the most important aspects are
+1.Published papers/pre-prints : Pre-prints are fully written papers which are not yet
+accepted for publishing. This is the easiest foot-in-the-door from the perspective of
+admission committees. If you don’t have this yet, I would suggest getting at least a
+pre-print worthy research idea, working on it and then applying.
+2.Recommendation: Only ask people who will recommend you 110% positively, make
+you look awesome. Try to get someone very successful in your research area/ﬁeld to
+write a rec, this person should be preferably from outside Ashoka. The way to do this is
+to get internships with people like this and then working super hard to impress them.
+3.Grades: Sorry but yes, the higher your grades the better your chances in general.
+However, everything above a 3.8 is the same. The big brackets I would say are a) 3.8+ b)
+3.5+ c) 3.2+ d) apply later. In case of d) do something awesome to stand out, like publish
+a paper at a top venue to stand out, work somewhere popular, get a recommendation
+from someone who is super popular in the ﬁeld and only then apply. Or go to an okayish
+place for a Master’s and then improve.
+Q:Any advice for undergraduates about the higher studies in CS?
+A:If you haven’t done any research, then don’t go to grad school. Only go to grad school if
+you’ve worked on research problems, and know that you want to take advanced courses and
+also do more research. Don’t go if you’re unsure/ because don’t have anything else lined up.
+Ideally you should pay 0 for grad school, and arguably go only when you don’t have to pay.
+Pratyush is a passionate cryptographer, pursuing his PhD from John Hopkins University. He was
+also accepted to NYU’s Courant School of Mathematics. His internship experience includes research
+roles at Indian Institute of Technology-Madras, Chennai Mathematical Institute, Dunya Labs, and
+Celo-Berlin.5.3 Post-Ashoka Journey 23
+Vineet Reddy (ASP’20)
+Q:You were accepted to some very reputed departments like NYU Tandon and UChicago.
+What path did you tread as an undergraduate that helped you secure these?
+A:I think having a solid research/project experience in your undergrad really sets you apart from
+other students. Keep in mind that Ashoka CS still does not have the same reputation as that of
+other programs in India (think IIT’s IIIT’s and BITS). I think focusing on this can be really
+useful when one is applying to graduate programs. Also, developing good rapport with your
+professors helps as you’ll need their references when you start applying.
+Q:According to you, what sets someone apart when applying to universities for a Masters
+in CS?
+A:From what our professors have told me - SoP and your LoRs seem to matter, by far, the most.
+While your GPA is important, most of the time, it your SoP and LoRs that set you apart from
+every other applicant. Stufﬁng them with solid references and good content should really help.
+Q:What is the next ’big’ thing you aspire to achieve?
+A:Ideally, work as a Software Developer in one of the Big 4 tech companies. Something long
+term would be to retire as soon as possible! Trust me, slogging off at work sucks.
+Q:Any pitfalls one should avoid while studying CS at Ashoka?
+A:One of the biggest pitfalls I noticed coming from an engineering program was how the
+education for most CS majors ends with the classroom. Most of the stuff I picked up was by
+doing random side projects and messing around with some popular libraries. Don’t just do
+what your courses tell you to, pick up random stuff and just work on it – you’ll probably learn
+a lot more than what your courses teach.
+Q:Any advice for undergraduates about the higher studies in CS?
+A:Work hard in Discrete Math and Algorithms! They’re super important courses that I should
+have paid a lot more attention to. Don’t worry too much about your grades, they’ll be ﬁne as
+long as you put in a bit of effort. Don’t just be a one trick pony – learn more than Python.
+Most of all, enjoy your time at Ashoka, it’s going to be great.
+Vineet is a Machine Learning Enthusiast, and was accepted to Masters programs at the New York
+University, University of Chicago, University of Massachusetts Amherst, and University of Maryland.
+Due to the ongoing COVID-19 crisis, he has decided to defer his admit to the next year. He’s
+currently working as a software development engineer at EACIIT - a Singapore based Big Data
+Analytics leader.24 Chapter 5. Additional Resources and Advice
+Aditya Singh (ASP’20)
+Q:What is the most important advice you would give juniors who wish to get into top
+Masters programs?
+A:I think the most important thing is to actively engage with the material and faculty while taking
+courses. Before making the decision to apply for further studies, it’s important to be clear
+about what one would like to study further. Personally, being involved in various different
+projects helped me in identifying the areas I really wanted to focus on and pursue further.
+Q:According to you, which aspect of your application was most instrumental in you getting
+accepted into top universities?
+A:Applying for postgraduate studies is a pretty holistic process so pinpointing one single aspect
+is difﬁcult. I think having industry exposure along with some research experience is helpful
+as it shows versatility, which then also reﬂects in the recommendations. Doing decently well
+on standardized tests is essential as they act as a virtual cutoff for some universities. The
+statement of purpose is also as important as anything else and should be thoroughly reviewed.
+Q:Any pitfalls one should avoid while studying CS at Ashoka?
+A:I can’t say in general, but in my experience, I found that it’s easy to become a little disconnected
+and solely grade obsessed at Ashoka, which is a detrimental mindset to have. Making the
+effort to interact and grow with not only your professors, but also your peers, goes a long way
+in helping you get the most out of the time you spend here.
+Q:How would you compare research experience and industry internships when it comes
+to applying to Masters programs in grad schools?
+A:I think it really depends on the sort of programs and universities one is targeting. For more
+theoretical and research-based programs I emphasized my research experience with professors
+at Ashoka and outside, whereas for programs that are also directed towards the industry
+(like data science, information systems, etc.) I put more emphasis on the internships. The
+recommendation letters also varied correspondingly. Again, it’s helpful to identify the area
+one would like to pursue, and plan the summer/winter commitments accordingly.
+Q:As you will be studying Computational Data Science at CMU, what is the most impor-
+tant skill people interested in Data Science must cultivate?
+A:I think the most important skill to cultivate would be to keep your fundamentals in mathematics
+strong, especially in subjects like linear algebra and real analysis. One might be able to
+intuitively understand how CNNs look for features across visual data, but knowing how the
+process of Stochastic Gradient Descent works is as important.
+Aditya plans to attend Carnegie Mellon University for an MS in Computational Data Science. He was
+also accepted to other reputed universities like University of Massachusetts-Amherst and University
+of Maryland. He was formerly a Research Intern at ISRO and Indian Institute of Technology-
+Gandhinagar5.4 Useful Contacts 25
+5.4 Useful Contacts
+•To contact any student (batch mate/senior/alumni) at Ashoka, it is convenient to use the Ashoka
+Email. The general syntax of one’s email is <ﬁrstname>.<lastname>_<batch>@ashoka.edu.in
+and you can use this format to look up/ contact anyone at Ashoka. Keep in mind that if one
+has multiple active email addresses, you will need to use your discretion, as follows:
+–If one has separate aspandugemails, contact them on their latest email (i.e aspin this
+case). Similarly, contact alumni on their alumni email ID.
+–Contact your TAs and TFs on their TA IDs, and not their personal emails, for course-
+related queries - makes their lives easier
+•If you do now know who to contact for anything remotely related to Computer Science, you
+should probably contact the CS Representative ﬁrst. For Monsoon 2020, the CS Representative
+is
+–Sehajpreet Kaur ( sehajpreet.kaur_ug21@ashoka.edu.in )
+•All Ashoka faculty can be contacted using the Ashoka Email. Ashoka Staff have simpler email
+syntaxes - <ﬁrstname>.<lastname>@ashoka.edu.in
+Wish you all the best, Department of Computer Science
