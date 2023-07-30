@@ -1,0 +1,786 @@
+Created by: Manu Awasthi, Johannes Burgers, Anup Padmanabhan, Anisha Sharma, Gaurav Bhatnagar, Mahavir Jhawar, Srinath Raghavan 
+and Swargajyoti Gohain       Version 2.1 Last Update: 06/08/2020 Overview 
+In light of the shift to rem ote teaching, this committee has been charged by the Vice -Chancellor t o compile 
+a rep ort on current remote teaching pedag ogies that might be useful to the fa culty. This d ocument is meant 
+to fun ction as a res ource, and in its sub-se ctions we ha ve tried to anti cipate the different kinds of resources 
+that might be helpful f or specific teaching situations. There is ne cessarily s ome cross -over between teaching 
+conte xts, and, on occasi on, res ources may be repeated .1  
+Reso urce Dis clai mer 
+Resources are pr ovided f or inf ormati on purp oses only , we do n ot end orse any of the pr odu cts and 
+encourage individual fa culty to try out things that w ork best f or them. When p ossible the utility of these 
+tools was vetted, but a comprehensive audit of any security or privacy vulnerabilities was n ot performed. 
+As with all digital t ools, there is the p ossibility that the s oftware d oes n ot handle the privacy of student data 
+properly, is n ot accessible to all students, and/or can be mali ciously expl oited by bad a ctors. Please use 
+cauti on when using any digital medium to transfer sensiti ve inf ormati on su ch as student assessments. 
+Note on Versioning 
+This is a living do cument and will be updated from time to time. To see the most recent version, use the
+link below: 
+https://docs.google.com/document/d/1eOQZ4l YVVybyG40YgqPltniedyguPjuuqKUSswvmb7Q/edit?usp=
+sharing 
+1 This guide was compiled from an aggregated and growing master list of resources being shared by an informal consortium Centers 
+of Excellence in Teaching and Learning available here: 
+https://docs.google.com/spreadsheets/d/1VT9oiNYPyiEsGHBoDKlwLlWAsWP58sGV7A3oIuEUG3k/htmlview?usp=sharing&urp=gm
+ail_link  
+2Table of Contents 
+1.Getting Started
+○ Setting up y our classroom space
+■ Generic Background
+■ Find a comfortable seat and position
+■ Set up proper lighting
+■ Adjust Webcam Height
+■ Setting Up Proper Acoustics
+○ Remote Meeting Norms
+2.Basic Classroom  Managem ent
+3.Accessibility  and Rem ote Learning
+4.T eaching Modalities: Sy nchronous vs. Asy nchronous Learning
+○ Sy nchronous and Asy nchronous Online Pedagogies
+■ Overview: Defining Small, Medium, and Large Classrooms in an Online
+Environment
+○ Sy nchronous Pedagogies
+■ Overview
+■ Small Classrooms (Participants < 25)
+1. Small Breakout Sessions
+2. Guided discussion using Share Screen or shared document
+3. Moderated discussion using chat
+4. Discussion based on snap polls
+5. Interactive Whiteboards
+■ Medium Classrooms (25 < Participants < 50)
+1. Medium breakout sessions
+■ Large Classrooms (50 < Participants)
+1. Lectures with Interactive Quizzes
+○ Asy nchronous Pedagogies
+■ Overview
+■ Medium Classrooms (25 < Participants < 50)
+1. Pre-recorded materials by  students
+■ Large Classrooms (50 < Participants)
+1. Pre-Recorded Lectures
+2. Discussion Board
+3. Annotated Slides
+4. Links to external sources
+5. Exam ination and Grading
+○ Overview: Low Stakes and High Stakes Assignments
+■ Low Stakes Assignments
+1. Automated Quizzes
+■ High Stakes Assignments
+1. Exams
+○ Modified Take Home Exams
+○ Take Home Exams and Academic Dishonesty
+6.Laboratory  Courses
+7. Office Hours
+8.Academ ic Integrity
+9.Student Recom m endations
+3Setting up your classroom space 
+Generic Background 
+It is important to set up a space that you feel will be uninterrupted for the duration of the 
+class. Ideally, your webcam is pointed to a wall where there is little possibility of 
+something happening in the background. If this is not possible, y ou can recreate this effect 
+by hanging up a plain, thick white bedsheet. Limiting the space behind you will also help 
+with the lighting auto-brightness. 
+Find a comfortable seat and position 
+You will be sitting for a long time, especially for multiple classes per day. It can be hard 
+to concrete on teaching if you are uncomfortable. Get in a comfortable position first, and 
+then set up the lighting, webcam and audio to accommodate you. 
+Set up proper lighting 
+Webcams can be remarkably 
+unflattering, and a big part of 
+appearing properly on camera is 
+setting up the right lighting. 
+Lighting from the back will darken 
+your face. Lighting from only 
+overhead lights tends to make you 
+appear spectral. Inconsistent 
+lighting, such as from a window, 
+will cause the auto-brightness on 
+your webcam to fluctuate. Soft, 
+indirect lighting from the front, as 
+depicted in the image on the right, 
+works best. If lighting is a problem, 
+ring-lights are relatively 
+inexpensive and can go a long way in creating a better image. 
+Adjust Webcam Height 
+Having the webcam at an odd angle can distort how you can come across on video. Place 
+the camera at eye level at eye level or slightly higher. Avoid angling the camera up from 
+below your eye level. Place the camera far enough away that you can frame yourself in the 
+middle of the image. If you were to split up the screen into thirds, your eyes should 
+intersect with or be slightly below the line for the top third. See the figures below for an 
+example. 
+Figure 1 : Ideal lighting for a webcam session. Soft, indirect lighting 
+from the front w orks best. Source:
+5Setting Up Proper Acoustics 
+Virtual meeting software like Google Meet and Zoom have integrated features that help 
+eliminate background noise and eliminate volume levels. These features are not perfect, 
+and you can do a lot to help the acoustics of your call.  
+The microphone will pick up sounds in the background that can cause distortion in the 
+feed. Eliminating this as much as possible will help keep the audio clear. Depending on 
+your particular situation, having multiple auditory focal points will amplify some noises 
+and reduce your own voice. The sound of a fan or air conditioner running can cause 
+consistent background noise. 
+Using headphones with an integrated microphone, can considerably improve the audio 
+quality for you and your students. 
+Figure 2 : The webcam should be at eye level or slightly 
+higher. Source:
+Figure 3 : Your face should take up roughly the middle third of the 
+frame. Source: https://www.labortools.com/hubfs/FramingThirds.jpg
+6Remote Meeting Norms  
+General 
+●All participants are encouraged to resolve technical issues before the meeting.
+Everyone should make sure that they have checked the video, microphone, and
+audio before joining the session. When possible, have a trial session with the
+technology before the first formal session.
+●Be on time. Like an in-person meeting, showing up late can be distracting. Login
+to the meeting several minutes before it starts, in order to make sure you are
+there from the beginning.
+●Please mute your microphone when you are not speaking. This keeps the
+background noise levels to a minimum, and helps every listener have a good
+experience.
+➢Tip: To quickly mute your microphone use the keyboard shortcut:
+Google Meet      Zoom  
+Windows  Ctrl + d    Alt + a  
+Mac  Cmd + d     Alt + a  
+●You are encouraged to keep your video turned on. It is hard for speakers to
+address someone they cannot see, and having a visual response from the
+audience makes speaking in a virtual meeting easier for everyone. If you are
+having bandwidth issues, turning off the video will help.
+●Remote learning emulates a classroom as much as possible. This is best achieved
+when all participants are present, focused, and contribute as if they were in an in-
+class meeting.
+●Please remember that the chat is a group chat. Whatever you type in there will be
+visible to the instructor, as well as everyone else in the meeting. Note that making
+comments not directly related to the course content is distracting to other
+students.
+Asking questions 
+Each instructor will establish a protocol for asking questions. Some of these include: 
+●Raising your hand
+● Using a “reaction” button in meeting
+●Writing in the chat box
+Whatever the operational protocol, it is best for participants to wait until there is an 
+acknowledgement by the instructor. Virtual meetings can be hard to follow when 
+multiple people are speaking, and it is most efficient to contribute on a turn-based 
+system. 
+Other 
+There is always a chance the technology fails or there is another issue with online 
+instruction. Since time for the virtual meeting is very limited, it is best to address any 
+issues outside of these hours
+7Virtual Meeting Software  
+In the summer of 2020, Ashoka decided to standardize its remote learning offerings. 
+Currently, there is robust support for Google Classroom and its virtual meeting software 
+Google Meet. For most use cases, Google Meet suits the requirements for a virtual class 
+session. There are a limited number of Zoom licenses available to faculty who prefer to 
+conduct their classes over Zoom. Faculty are encouraged to use these pieces of software 
+because there will be a substantial institutional knowledge base regarding their feature 
+set and useability.  
+Attendance 
+Attendance is both simple and challenging to manage in a virtual classroom. There is 
+software available to automatically document attendance, but it is harder to determine 
+who is actually physically present and paying attention during the session. It is a given 
+that various technical problems could arise. 
+The chrome extension “Meet Attendance”  lets you take attendance during a live Google 
+meet session. 
+Closed Captioning and Transcription 
+Google Meet allows any user in the session to turn on Closed Captioning for better 
+intelligibility of the session. These captions are saved in the recording session, but not as 
+a separate text file. If you would like to offer students the text transcript of the session this 
+can be done through the Google Chrome extension: taqtic.io 
+It is a good practice to save the transcript of your sessions for extra accessibility for 
+students who were not able to attend the session. 
+Recording Sessions 
+Recording class sessions so they are available to students who were not able to attend is 
+highly recommended. However, there may be scenarios where recording class sessions is 
+not desirable. For example, if the course discusses personally sensitive topics recording it 
+might stifle conversation. The default is that students assume they are being recorded. If 
+the session is not being recorded it might be useful to let them know in advance. 
+Recording Storage and Security 
+In synchronous sessions, if you record your live lectures using Google Meet then they are 
+available in the “Meeting folder” i n your Google drive. You can share these videos under 
+the  “classwork” tab in Classroom.  
+Any textual, auditory or visual material in which students are identifiable may not be 
+shared outside of the classroom without the express permission of the students depicted. 
+Likewise, students may not distribute classroom recordings to any third parties. 
+9Making courses accessible for students with disabilities and English Language Learner 
+issues benefits all students. In this respect, accessible course design offers a good set of 
+design principles for course design more generally, and is often included under the larger 
+umbrella of  universal design for learning  because it considers all possible users. 
+Making course material accessible 
+Planning for accessibility doesn’t automatically mean creating multiple versions or 
+discarding activities, assignments, content up-front because it could be inaccessible for 
+certain students. It means having thought through what you would do if a student for 
+whom that activity was inaccessible registered for your class.2 
+The OLS recommends that the reading material be distributed in an accessible format 
+such as Word or a Searchable PDF. Generally, accessible documents are first produced in 
+Word, converted to PDF and then checked for accessibility . You may also refer to the more 
+detailed presentation: Building Accessibility into Online Teaching and Learning . 
+Making online lectures accessible 
+Provide access to the lectures, synchronous or asynchronous, by using both the modalities 
+–audio and visual. Invest in the technology that integrates both.
+Audio to Visual 
+During lectures, the speech (audio) needs to be made available as a text to integrate the 
+visual modality. Use technology tools that provide: 
+●Closed Captioning/ Subtitles
+●Post-Production (recording) Transcription
+●Live Transcription
+Google Meet has built-in Closed Captioning software. Tactiq.io creates free transcripts of 
+these files and saves them in your Google Drive. 
+➢See:  https://tactiq.io
+For free/paid Live Transcription in Zoom classes 
+➢See: Otter.ai Live Notes for Zoom
+Visual to Audio  
+During lectures, the visuals, text and images, need to be made available as speech to 
+integrate the audio modality. During the lecture, the text and images can be read aloud or 
+explained and also shared with the students (with blindness) before class so that they can 
+access them with their screen reader. Students with disabilities and English Language 
+Learners have access to assistive technology resources on their own devices for the same. 
+Contact Office of Learning Support at ols@ashoka.edu.in  for further details.
+2 https://canvas.ucdavis.edu/courses/34528/pages/accessibility- for-online-courses 
+10Teaching Modalities: Synchronous vs. Asynchronous Learning3 
+There are two options for instructors to facilitate class sessions remotely: 
+● Synchronous : instructors and students gather at the same time and interact in
+“real time” with a very short or “near -real time” exchange between instructors and
+students.
+● Asynchronous: instructors prepare course materials for students in advance of
+students’ access. Students may access the course materials at a time of their
+choosing.
+Instructors may choose to engage their students synchronously or asynchronously 
+depending on the course content or material that needs to be taught. There are distinct 
+advantages and disadvantages to asynchronous and synchronous teaching options. 
+Synchronous Teaching  Asynchronous Teaching  
+Advantages  ❏Immediate personal
+engagement between students
+and instructors, which may
+create greate r feelings of
+community and reduce feelings
+of isolation.
+❏More responsive exchanges
+between students and
+instructors, which may prevent
+miscommunication or
+misunderstanding.❏More scheduling flexibility,
+which may simultaneously
+make the learning experience s
+more accessible to different
+students.
+❏Creates an archive of past
+materials that can be
+redeployed in future iterations
+of the course.
+❏Students can control the pace
+of learning to a speed that is
+appropriate to them.
+Disadvanta
+ges ❏More challenging to schedule
+shared times for all students
+and instructors.
+❏Some students may not be fully
+comfortable using the
+technology, or be
+disadvantaged by the
+limitations of their digital
+affordances.❏Students may feel less
+personally invested, and less
+satisfied wi thout the social
+interaction between their peers
+and instructors.
+❏Course material may be
+misunderstood or have the
+potential to be misconstrued
+without the real -time
+interaction.
+3 Teaching and Learning Center. “Faculty Resources for Remote Teaching and Learning.” Rider University. Last access date: 
+03/04/2020. URL: https://docs.google.com/document/d/1Nd-wnQuhQ6qqMl-
+R6QGNcZKw1cWOt1BBab9VcWECpEA/edit?ts=5e875798#heading=h.51dvbfupqxsh   
+12Overview: Defining Small, Medium, and Large Classrooms in an Online 
+Environment 
+In an online environment, class size is a significant determinant of the possible forms of 
+classroom engagement. Generally, smaller classes tend to lend themselves to 
+synchronous activities, while larger classes might be more manageable with 
+asynchro nous modalities. What constitutes a “small,” “medium,” or “large,” classroom is 
+to some extent framed by the limits of the technology.4 The chart below provides a guide 
+to possible activities based on classroom size. Though these will necessarily vary by 
+discipline and specific course material. 
+Type  Participants  User Experience  Classroom Activity  
+Small  Participants < 
+25 Depending on device 
+screen size and 
+resolution, it is generally 
+possible to see all 
+participants in a Meet 
+session simultaneously 
+on one screen.  Synchronous  
+❏Small breakout
+session with Zoom
+“rooms”
+❏Guided discussion
+using Share Screen or
+shared document  
+❏Moderated chat
+discussion
+❏Snap polls
+❏Interactive
+Whiteboard
+Medium  25 < 
+Participants < 50 It is not possible to see 
+all participants 
+simultaneously, or only 
+with a dual monitor 
+setup. Faculty will have 
+to actively look at who 
+may be participating in 
+the class.  Synchronous  
+❏Medium breakout
+sessions with Zoom
+“rooms”
+❏Moderated chat
+discussion
+❏Snap polls
+Asynchron ous 
+❏Pre-recorded
+materials by students
+❏Short pre -recorded
+videos by the
+instructor
+Large 50 < Participants  Google Meet allows for 
+250 participants and 
+Zoom can handle 100, Synchronous  
+❏Snap  polls
+❏Interactive quizzes
+4 The upper limits for the number of participants in Google Meet is 250 and Zoom is 100. 
+14but the ma jority will not 
+be visible throughout 
+the session.  
+The current cap on the 
+gallery size in Google 
+Meet  is 16.  
+The Chrome extension 
+Grid  View , increases the 
+number of visible 
+participants to 100.  Asynchronous  
+❏Pre-recorded lectures
+❏Discussion board
+❏Integrated quizzes
+❏Annotated slides
+❏Links to external
+sources
+Synchronous Pedagogies 
+Overview 
+Due to some of the technical limitations of online sessions, synchronous sessions tend to 
+work best with smaller classes. With some modification, many of these pedagogies could 
+equally well be applied to larger classes. 
+Small Classrooms (Participants < 25)  
+Small Breakout Sessions 
+In Zoom it is possible to split the online class into “rooms.” Zoom has the option to do this 
+automatically through randomization, or by manually allocating specific students into 
+specific groups. Once c reated, it is possible for the instructor to “float” between rooms 
+and check in on the discussion. This model allows faculty to check in with students on a 
+more personal basis.  
+➢See: Zoom Managing Video Breakout Rooms .
+➢Google Meet does not have this capability yet, but there are multiple plug-
+ins. One workaround can be found here , but it requires some planning and
+cannot be done “on the fly.”
+Guided discussion using Share Screen or shared document  
+Provide readings for a class beforehand, assign one or two students as lead discussants 
+for the paper/reading. The leads are meant to lead the discussion on the reading, possibly 
+by preparing a minimal set of slides, if that works for the course/material. The instructor 
+can then supplement the presentation at key points, and engage the rest of the class by 
+asking pertinent questions.  
+➢See: Zoom Share Screen Google Meet Share Screen  
+➢
+Moderated discussion using chat 
+Not every student may be able to participate in a virtual classroom setting due to either 
+technological or dispositional factors. In such cases, it is still possible for them to 
+participate through the chat features of both Zoom and Google Meet.  
+15❏Possibility 1: Instructor posts question in the chat or shares it on the screen.
+Students respond to the question in their chat box, and this prompts further
+discussion.
+❏Possibility 2: Instructor designates one student to moderate the discussion.
+Students who cannot actively participate in the video chat can still listen and
+respond and interact through the chat.
+➢See: Zoom In-Meeting Chat
+        Google Meet In-Meeting Chat  
+Discussion based on snap polls 
+Snap polls are a quick way to gauge students’ surface -level understanding of a core 
+concept. Ranging from true/false to multip le-choice, questions can be deployed directly 
+during a Zoom session. A discrepancy in answers can solicit a point of clarification.  
+➢ See Pollings for Meetings
+Google Meet does not have native polling abilities, but there are various add-ons that 
+achieve a similar effect.  
+➢See: Polls for Google Hangouts Chat
+Other options: 
+➢See: Poll Everywhere  Polls
+Interactive Whiteboards  
+Interactive whiteboards allow students to post into one collective space in real time. There 
+are multiple ways of doing this, but the basic point is that students can brainstorm ideas 
+and suggestions. 
+Name  Website  Tool  Cost  Features  
+Wakelet  www.wakelet.com  Allows students to 
+share materials to a 
+board in real time  Basic is free  
+Google 
+Docs/Shee
+ts/Slides  https://www.google.c
+om/docs/about/  Lets students 
+collaborate in real 
+time on a shared 
+document  Free  Can see who does what on 
+collaborative projects, never 
+lose work (auto saves and can 
+see ear lier drafts), can 
+hyperlink all needed 
+resources on one set of 
+slides/document  
+One of the challenges with interactive whiteboards is that the standard input device for a 
+computer is a mouse or trackpad. These are very difficult to work with for any length of 
+time. For more sustained usage of an interactive whiteboard there are a number of devices 
+available.  
+16Recommended:  
+●WACOM One by CTL-672/K0-CX Medium 8.5-inch x 5.3-inch Graphic Tablet
+●A stylus and pad input device that works with multiple pieces of software. Price
+around ₹8,000
+●IT is currently looking into requisitioning some devices for special cases. Please
+check to see if they are available.
+Other tablet devices that are compatible with a stylus also work, but these are more 
+expensive and the setup is more involved. 
+Working with Interactive Whiteboarding Google Meet 
+Whiteboard support (Non-collaborative)  
+1.Use https://canvas.apps.chrome/  for whiteboard support.
+2.Present the tab (where the Canvas is open) in the Google meet to students.
+Whiteboard Support (Collaborative) 
+1.Use https://jamboard.google.com/   for whiteboard support.
+2.Present the tab (where the jamboard is open) in the Google meet to students.
+3.Also create a shareable link of the Jamboard and paste it on the Chat window of
+Google meet
+4.Both you and students can write and see the same Jamboard
+Working with Interactive Whiteboarding Zoom  
+➢See: Using annotation tools on a shared screen or whiteboard
+Setting up a Whiteboard session without a dedicated  input device 
+The instructor can join the Google/Zoom Meeting from two devices, simultaneously, say 
+a laptop and a tablet. The latter has to (1) be capable of screen sharing, and (2) support a 
+stylus (e.g. Apple Pencil) that allows the instructor to write on the tablet. The instructor 
+can share the tablet’s screen, w hich doubles up as the whiteboard. The other device 
+(laptop) can be used for sharing the instructor's video, and/or monitoring chat messages 
+with student queries.  
+Medium Classrooms (25 < Participants < 50) 
+Medium breakout sessions  
+Medium breakout sessio ns with Zoom “rooms”. Here the same principle as the “small” 
+breakout session applies. The difference is that the groups might grow to become 
+inordinately large. A possible solution is to deputize a more advanced student to lead the 
+discussion, and report out upon the completion of the specified task. 
+➢See Zoom Managing Video Breakout Rooms .
+17 Large Classrooms (50 < Participants) 
+Lectures with Interactive Quizzes 
+It is possible to create slideshows and other lecture materials that incorporate interactive 
+quizzes. In some cases, these can be deployed live, in other modalities they can be used 
+for pre-recorded material. The quizzes are a way to assess real-time understanding of the 
+covered materials.  
+In Google Meet quizzes can be deployed using Google Forms. The score on the quiz is 
+automatically imported into the Classroom Gradebook. 
+➢Instructional video: Coming Soon
+Interactive quizzes can also be created with Camtasia. This process is substantially more 
+involved and the grades will not export to Google Classroom automatically. The advantage 
+is that the video and the quiz can be deployed in an asynchronous environment. 
+Asynchronous Pedagogies  
+Overview 
+Not all learning needs to happen within the confines of the allotted meeting slots, and it 
+may be more beneficial for the instructor and the student to re-think the structure of the 
+course in a remote learning environment. These pedagogies are particularly useful when 
+managing a large class. 
+Medium Classrooms (25 < Participants < 50) 
+Pre-recorded materials by students  
+Students can “teach” a particular component of the class by preparing a video 
+presentation in advance of the lecture. Given the constraints of synchronous online 
+communication, this might be a good way to circumvent bandwidth requirements for 
+large classes. There are several collaborative software options available for students to put 
+together the video. The most straightforward way is to encourage students to schedule a 
+Zoom or a Meet session and then record themselves.  
+➢See: Zoom
+       Meet 
+Quicktime  (Mac only) 
+Large Classrooms (50 < Participants)  
+Pre-Recorded Lectures 
+For large classes, discussion may not be an option. There are several ways in which 
+lectures can be pre- recorded and sent to students. It may not be necessary to create one 
+lecture in its entirety, which can be both time consuming and not very engaging for 
+students. Instead, breaking up long lectures into several shorter topic-based sections may 
+be a more optimal option.  
+18If you are creating a pre-recorded lecture in a short time frame, consider a few simple 
+tips.5 
+❏Provide an explicit roadmap at the beginning.
+❏Break down the lecture into shorter segments. A long pre-recorded lecture can be
+deadly boring to watch.
+❏Intersperse the lecture clips with reflection questions for the students to consider.
+Try to make the learning experience “inductive” rather than entirely didactic.
+❏Speak to the student, not to the camera.
+❏Insert yourself – a personal story, humor, or editorial commentary – into the
+lecture.
+You don’t need to pre -record the entire lecture. Instead, you can pre-record certain 
+segments of your lecture, such as material you want the students to reflect on before class, 
+and leave the rest to the in-class session. Pre- recording and live needn’t be substitutes; 
+they can serve as powerful complements too. 
+Accessibility tips when recording videos:6 
+❏Enable Closed Captioning in Google Meet for videos.
+❏Keep recordings under 10 minutes.
+❏Verbally describe any images or props you show in the video or include textual
+descriptions below the video.
+Adding Interactivity 
+It is possible to integrate quizzes in a video lecture using Camtasia. This process is time 
+consuming on the front end, but once created the video and questions can be reused in 
+subsequent semesters. 
+Another option is to upload lecture videos to YouTube and then embed those videos in a 
+Google Quiz. Students watch part of the lecture, and subsequently answer questions. 
+Although visually clunkier, this has the added advantage of directly exporting the quiz 
+score to Google Classroom.  
+➢See: Creating interactive quizzes with Google Forms
+Suggested Tools: 
+➢See: Camtasia
+       How to Record your Lecture with PowerPoint in Zoom  
+       Google Meet 
+5 “Best Practices: Online Pedagogy,” accessed April 4, 2020, https://teachremotely.harvard.edu/best- practices . 
+6 Cornell Resource Library. “Getting Started with Panopto.” Cornell University, accessed: 03/04/2020. URL: 
+https://canvas.cornell.edu/courses/1848/pages/getting- started- in-panopto  
+19Discussion Board7 
+To remove technical hurdles and to ensure that students are able to engage with peers 
+and each other in a discussion-based class, you might choose to move student discussion 
+to an asynchronous format. Create a discussion forum to facilitate communication, 
+encourage students to interact, ask questions and respond to discussion prompts. 
+Pedagogical recommendations: 
+➢Craft discussion questions to be as clear and as specific as possible so that students
+can build off of the question for a sustained response.
+○See Stanford TeachingCommons’ “Designing Effective Discussion
+Questions”
+○See “Conversation Starters: Orchestrating Asynchronous Discussion to
+Build Academic Community among First- Year Writers” by Dan Seward
+➢Assign roles to students so that they understand when and how they might respond
+to you or their peers. For example, students might “role play” as particular kinds
+of respondents or you might ask them to do particular tasks (e.g. be a summarizer,
+a respondent, a connector with outside resources).
+Google Classroom will allow you to create discussion questions for students, and 
+moderate the discussion in various ways. Responses to the discussion questions 
+can also be graded and automatically recorded in Classroom’s gradebook.  
+➢See: Create a discussion question in Google Classroom
+Annotated Slides  
+Pre-recording lectures can be very labor intensive. To simplify matters, one can also send 
+the slide deck w ith notes. This “low -tech” solution is actually beneficial to students who 
+have bandwidth issues and cannot watch the lectures in real-time or as a recording. For 
+some students this is actually an easier way to learn than listening.  
+Links to external sources  
+Although never a replacement for your own teaching, there is a wealth of learning material 
+available online. Some core concepts in your discipline may have been covered by other 
+educators. It does not always make sense to reinvent the wheel, especially when faced 
+with a time crunch. 
+➢See: Jove
+ibiology  
+7 Cohn, Jenae and Beth Seltzer, “Teaching Effectively During Times of Disruption,” Google Docs, accessed April 5, 2020, 
+https://docs.google.com/document/d/1ccsudB2vwZ_GJYoKlFzGbtnmftGcXwCIwxzf- jkkoCU/preview?usp=embed_facebook . 
+20Overview: Low Stakes and High Stakes Assignments 
+In Engaging Ideas , John Bean broadly defines two types of assessment in the classroom: 
+low-stakes and high-stakes.8 Low-stakes are weighted lower percentage-wise, but are 
+more frequent and informal, high-stakes assignments are weighted higher but more 
+infrequent. Both types of assignments are valuable measures of student engagement and 
+learning. In a remote setting, there may be a need for more frequent “low -stakes” 
+assignments to encourage student engagement. Meanwhile, “high -stakes” assignments 
+are a valuable way to assess student mastery of content, but, given the online setting, are 
+more susceptible to academic dishonesty. 
+Low Stakes Assignments  
+Entry Slips/Exit Slips  
+Before the start of class students come up with a critical question about the material they 
+were meant to prepare for that day. At the end of the session they make clear what they 
+learned and how they would answer the question they posed. A very simple grading 
+scheme of check+, check, check-, or 3, 2, 1 can make grading these relatively quick, while 
+at the same time gauging student participation. 
+Automated Quizzes  
+This could be done through mechanisms like the Quiz feature of Google Classrooms. The 
+instructors can prepare quizzes based on the material covered every week. There are a 
+range of possible quiz question types, including: short answer, long answer, multiple 
+choice, multiple select, and more complex question types. 
+High Stakes Assignments 
+Exams 
+Generally proctoring exams in an online environment is very challenging. The level of 
+student surveillance required to make sure there is no academic dishonesty during 
+synchronous exams, also enhances the chances of technical problems for students. Even 
+with a high level of surveillance, it is not possible to guarantee that students will not 
+engage in academic dishonesty. If there is no other way to do the assessment for a course 
+special arrangements can be made with IT for online synchronous proctoring.  
+Modified Take Home Exams 
+Depending on the course being offered, instructors can decide to offer take home exams, 
+which could be “open book” and “open internet.” The idea is to create a set of questions 
+that help students provide logical arguments, or design choices for the possibly open-
+ended set of questions being posed to them. The exam can be posted on Google Classroom 
+and made available at a specific date and time. The various question types available in the 
+8 Bean, John C. Engaging Ideas: The Professor's Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom . 
+The Jossey-Bass Higher and Adult Education Series. 2nd ed. San Francisco: Jossey- Bass, 2011.  
+22Google Classroom Quiz feature, should be able to cover most exam types. Otherwise, 
+students can also submit a file as their response. 
+Take Home Exams and Academic Dishonesty 
+The possibility of illicit or collaborative exploitation of intellectual resources is 
+particularly high with regard to take-home exams. There is no way to guarantee that a 
+student does not consult unsanctioned resources. There are several ways to mitigate the 
+possibility or make it less desirable: 
+Fixed time window:  Deploying and receiving the exam in a specific window of 
+time prevents the possibility of collaboration and other forms of academic 
+dishonesty. Google Classroom will allow you to regulate when the exam is posted 
+and lock when the exam can be received. Note that students have expressed that 
+this method can be quite stressful, because if there is a power outage or another 
+technical issue it could prevent them from turning in the exam on time. 
+Similarity check: Google Classroom now has an integrated similarity check that 
+can be used for exams. Alternatively, exams can be passed through Turnitin to 
+check whether students directly copied answers. 
+➢See: Best Practices for Online Exam Design - Pepperdine University
+23Unlike theory-based courses, practical courses are generally of longer durations and 
+require specialized infrastructure support. In addition to this, moving practical courses 
+online results in students taking more time to become familiar with the learning material, 
+internalize how(s) and why(s) of each step in the practical and critically analyse the 
+concepts presented. Their peer-learning ecosystem is also disrupted. Therefore online 
+teaching/learning of such courses may not provide the desired result and learning 
+experience. However, some of the suggestions below may be helpful, to a certain extent, 
+in learning the subject matter and building relevant and useful skill(s)-set : 
+1.Re-organizing of the order of courses between monsoon and spring
+semester.
+➢Lab courses scheduled in monsoon 2020 may be shifted (postponed) to
+spring 2021, and replacement theory based courses scheduled in spring
+2021 may be brought forward to be taught in the monsoon 2020 semester.
+2.In case reorganization of courses as mentioned in #1 (above) is not
+possible, the course coordinators may consider,
+a.Re-evaluate learning objectives and outcomes  by re-designing
+the course curriculum to incorporate in-silico
+experiments/demonstrations and/or analysis of data obtained from
+these experiments/demonstrations..
+b.Livestream / Recorded demonstrations of the laboratory
+experiments
+The course coordinators and/or instructional support staff may
+demonstrate the experiments in the lab and choose to stream the
+experiment demonstration live (synchronous) or record pictures/ videos
+of different parts of the experiments (asynchronous). The gathered data
+could be shared with the students to analyse and make observations. If
+possible, the students may be allowed to perform these experiments
+upon their return to the campus.
+c.Virtual Labs
+There are a number of ways (listed below) that allow students to
+approximate laboratory experience through active participation rather
+than passive observation, virtually. Most of the virtual labs listed in the
+link below are extremely discipline specific and there is a significant
+range in quality, but might offer a temporary stopgap, until the
+students return to the campus:
+https://docs.google.com/spreadsheets/d/18iVSIeOqKjj58xcR8dYJS5r
+YvzZ4X1UGLWhl3brRzCM/htmlview
+25Office Hours 
+Meeting students outside of class hours can be a challenge. Although it is possible to 
+schedule a running Google Meet for office hours and propagate it in the course calendar, 
+there is no way to anticipate who will show up, or to establish a queue for students. One 
+efficient way to schedule office hours is through the scheduling software Calendly . You 
+can create meeting slots for your students who can then sign up. If a student signs up, it 
+will place that meeting on your Google calendar, and block the slot for other students. You 
+can also change your availability on the calendar, so you never need to inform students of 
+when your office hours are, just give them the link. 
+➢See: Connect Calendly to Zoom
+27Academic Integrity 
+The remote learning environment brings with it a different set of challenges with regard 
+to academic integrity. Fortunately, many of the core principles that help prevent academic 
+dishonesty in an in-person classroom also apply to a virtual classroom. In general, it is 
+better to prevent academic dishonesty through assignment design and deployment than 
+through punitive means after the fact.9 
+1.Ask open-ended critical questions that require unique answers.
+2.Scaffold large assignments into smaller parts that help you track student progress ,
+and reduce the chance of plagiarism.
+3.Students are more likely to commit academic dishonesty on a singular high-stakes
+assignment than several low-stakes assignments cumulatively worth the same
+weight. Spreading assignments out over the course of the semester can lower
+student anxiety, and reduce the need to resort to getting non-sanctioned support
+for an assignment.
+4.Academic dishonesty is not the same in every course or even for every assignment.
+Be explicit as to what resources students can use to complete their assignment.
+May they consult old exams? Work with fellow students on a paper? Work with
+material they wrote for a previous class? Clarifying what constitutes academic
+dishonesty for a specific assignment can prevent misunderstandings.
+5.Students are less likely to cheat when the scope and requirements for an
+assignment are clear.
+6.Explicitly stating that you use plagiarism prevention software, and demonstrating
+the software can act as a strong deterrent.
+7.Reminding students of the Academic Integrity policy and the consequences of
+committing a violation has been shown to reduce cheating.
+8.Allowing students to signal in their paper when they are uncertain about how to
+use a source can create a productive learning moment.
+9 Some of the language here has been adapted from the site on Remote Learning and Academic Integrity created by the 
+Library and Technology services department at Lehigh University. “Remote Learning and Academic Integrity | Library & 
+Technology Services.” Accessed August 4, 2020.  https://lts.lehigh.edu/remote-learning-and-academic-integrity . 
+29Student Recommendations  
+The recommendations below have been collated by the student representatives from all 
+departments. They offer an overview of the most pressing concerns for students, and 
+practices they have found successfully address those concerns. 
+Attendance Policy for Synchronous Learning  
+Issues:  
+(i) Students might have varied household conditions, and may not be able to adhere to
+attendance requirements.
+(ii) Technical issues can also be an obstacle for class attendance.
+(iii) International students might not be able to join synchronous classes.
+Solution: 
+(i) Owing to difficult circumstances, students found it really helpful when professors
+clearly delineated what constituted an excused and an unexcused absence, and the
+number allowed for each course.
+(ii) One particularly productive way in which one professor dealt with students not being
+able to attend synchronous sessions was by creating optional assignments that counted
+towards attendance.
+High Stakes and Low Stakes Assignments  
+Issues: 
+(i) It is more difficult to properly schedule time for doing assignments at home. Both
+because students may have household commitments to attend to, and because they may
+get too much screen time in one day. Scheduling becomes even more challenging when
+high stakes and low stakes assignments are not properly defined at the beginning of the
+semester.
+(ii) For courses following a Midterm-Final paper/exam format, the lack of low-stakes
+assignments adds more pressure on students who may not be able to perform evenly on
+exams/final papers due to personal or technical reasons.
+(iii) It becomes challenging for students to complete high-stakes assignments without
+access to the required resources, such as books, scholarly articles, and other research
+materials.
+(iv) Since almost all of the course content is now digital, it has become more difficult for
+students to keep up with the readings due to screen fatigue.
+Solution: 
+(i) Students are better able to organize their time when the high and low stake
+assignments are clearly defined at the start of the semester for every course.
+(ii) For courses following a Midterm-Final paper/exam format, more low-stakes
+assignments provide more opportunities for students to properly showcase their
+knowledge than a high pressure situation like an exam of final paper.
+(iii) All resources for high-stakes assignments should be provided beforehand, for
+example, in a shared google drive folder for the class. For assignments where this is not
+31possible, grading curves should be cognizant of any uneven resource distribution among 
+students. 
+(iv) Students found it more effective to do several short readings, as opposed to one very
+long reading that causes screen fatigue.
+Procedure for Remote Examinations 
+Issues: 
+(i) Households do not provide the same composed and undisturbed setup as classrooms
+in terms of taking examinations, leading to an inability to focus.
+(ii) Unexpected technical issues or power cuts might further hinder exam performance
+and submission.
+Solution:  
+(i) An example that worked really well for students was allotting extra time for remote
+exams in anticipation of technical difficulties and/or interruptions in the test taker’s
+location.
+(ii) Students found it really beneficial when there were multiple quizzes/exams, and only
+the best scores were taken into consideration to provide more buffer for students who
+may underperform due to technical or circumstantial issues.
+Assessing Class Participation for Synchronous and Asynchronous Classes.   
+Issues: 
+(i) Remote learning makes it difficult for students to participate in all class activities.
+(ii) Larger class sizes and technical difficulties also impact class participation.
+Solution:  
+(i) An example that really worked for students was when the professor assessed class
+participation only on the basis of the quality of participation shown in the classes the
+student was able to partake in.
+(ii) Students found that weekly discussion posts on online platforms (such as Canvas
+and Piazza) were able to engage with the class better when they were the primary
+criteria to grade them for class participation.
+Recorded Lectures for Asynchronous Classes 
+Issues: 
+(i) In an asynchronous setting, students might find it difficult to continuously engage in
+recorded lectures.
+(ii) A lack of student-teacher interaction might further disengage students from the
+recorded lecture format and hinder the Q/A or feedback process.
+Solution: 
+(i) Students found it easiest to follow lectures that were broken down into smaller sections
+and that covered discrete topics.
+32(ii) Some of the best lectures were those where the instructor's face was visible, because
+it was easier to engage with the material.
+(iii) Students felt more engaged and involved when instructors occasionally held
+synchronous meetings to discuss the lecture material with students.
+(iv) Students found one- on-one short feedback sessions conducted by instructors to be
+the most effective for clearing queries and concerns about the course or materials.
+33
