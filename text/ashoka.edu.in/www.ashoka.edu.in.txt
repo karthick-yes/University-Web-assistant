@@ -1,0 +1,697 @@
+ 
+PHYSICS HANDBOOK  
+2020 -21 
+ 
+ 
+ 
+ 
+DEPARTMENT OF PHYSICS  
+ASHOKA UNIVERSITY  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 1 
+Contents  
+1. Introduction                                                                                        2 
+2. Physics Major - Typical Trajectory               3 
+3. Physics Minor and Concentration                                        4  
+4. General Information on the Phy sics courses                                5 
+5. List of Physics Courses                                                                       
+➢  Core/ Compulsory  Courses           5 
+➢ Elective  Physics Courses           9 
+➢ Cross -listed Electives            9  
+6. Physics ASP                                                                                         10 
+7.  TF/TA -ship Policy                                                                            12 
+8.  ISM                                                                                                       12 
+9. Faculty                                                                                                  13 
+10.  FAQs                     20 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  2 
+ Introduction  
+Physics is a doorway to some of the most beautiful and profound phenomena 
+in the universe like black holes, supernovae, Bose -Einstein condensates, 
+superconductors. It is, simultaneously, a driver of lifestyle -changing 
+technology, e.g., engines, electricity, and transistors; and a powerful way of 
+perceiving and analyzing problems that can be applied in various domains, 
+both within and outside standard physics. The beauty and profundity of the 
+phenomena studied by physicists offer romance and excite passion, and the 
+utility of its discoveries and th e power of its methods arouse interest.  
+ 
+These methods can be very intricate and demanding: theoretical physics 
+requires a skilful combination of physical and mathematical thinking, and 
+experimental physics requires in addition the ability to turn tentati ve ideas 
+into physical devices that can put those ideas to the test. As a result, the 
+successful practice of physics demands rigour, flexibility, mechanical 
+adroitness, persistence, and great imagination. The physicist’s imagination is 
+nourished not just b y physics but also by other areas of human enquiry and 
+thought, of the kind that an Ashoka undergraduate is expected to encounter.  
+ 
+With all of this in mind, the physics programme has been designed to:  
+(i) allow students wishing to major in physics to discov er real physics and 
+make a wise choice, in the first year;  
+(ii) provide, throughout, a thorough training in fundamental physics;  
+(iii) bring together everything learnt earlier, and give students the option to 
+pursue more advanced courses in physics or branch out into other 
+areas, in the third year. The idea is to accompany those wishing to 
+become professional physicists as they take the f irst steps in that 
+direction, and to introduce everyone who goes through the programme 
+to the physicist’s way of thinking.                   3 
+Physics Major – Typical Trajectory  
+Semester 2: Discovering UG -level Physics  
+A student wishing to major, minor, or pursue a concentration in Physics is 
+expected to take the introductory course in calculus (Calculus I) offered by the 
+Mathematics Department. Students wishing to major in Physics should plan 
+to take it in their first s emester.  
+ 
+Requirement for Physics major : 13 core physics courses + 2 electives (60 
+credits)  
+ 
+The physics -major sequence begins in semester 2, with two courses, one in 
+theoretical physics and the other in experimental physics. The first purpose of 
+these c ourses is to provide an experience of UG level physics on the basis of 
+which a student can decide whether or not to major in physics, i.e., they are 
+gateway courses.  The second purpose of these courses is to serve as an 
+introduction to the physicist’s way of thinking about problems and solving 
+them, something that has proved useful not just to physicists but also to those 
+in other disciplines that make use of quantitative methods and experiments, 
+e.g., mathematics, computer science, economics, psychology, a nd biology.  
+ 
+Semester 3, 4 and 5:  The Physics Core  
+ 
+The physics courses in these 3 semesters form the core of the physicist’s 
+undergraduate canon. Anyone majoring in physics is expected to be thorough 
+in these areas. Each semester has 2 -3 theory courses and an accompanying lab.  
+ 
+Semester 6:  Exploring more advanced options  
+ 
+The student can opt for elective courses: each student majoring in physics is 
+required to take at least two. From the student’s point of view, the electives 
+chosen is likely to indicate a post -graduate direction – towards theoretical 
+physics, towards experimental physics or perhaps away from physics into an 
+allied discipline that would benefit from training in physics.  
+ 
+ 
+ 
+ 
+                  4 
+Physics Minor  or Concentration  
+ 
+To Minor in physics a student must do six courses in physics (24 credits). Of 
+these the two gateway courses – MP1 and Lab 1 – are compulsory. At least two 
+more courses should be taken from among the core courses offered in 
+semesters 3, 4, and 5, provided a ppropriate prerequisites have been satisfied 
+for these courses (recommended courses: Classical Mechanics and Thermal 
+Physics).  
+ 
+The remaining two may be either other compulsory or elective courses offered 
+by the Physics Department or cross -listed with Phy sics, provided appropriate 
+prerequisites have been satisfied. In place of one elective course, a student may 
+take an Independent Study Module (ISM) of equivalent credit.  
+ 
+ 
+For a Concentration in physics a student must do six courses in physics (16 
+credits ). Of these the two gateway courses – MP1 and Lab 1 – are compulsory.  
+ 
+At least two more courses should be taken from among the core courses offered 
+in semesters 3, 4, and 5, provided appropriate prerequisites have been 
+satisfied for these courses (recomm ended courses: Classical Mechanics and 
+Thermal Physics)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  5 
+General Information on the Physics Courses  
+Mathematical level  — All theory courses are calculus -based. The level of 
+mathematical sophistication will increase progressively. The mathematical -
+physics courses will be application -oriented rather than proof -oriented. 
+Familiarity with +2 level physics and mathematics is a ssumed.  
+ 
+Labs — All lab courses will involve extensive use of instruments to make 
+observations. These experiments will in general illustrate ideas studied in the 
+accompanying theory courses.  
+ 
+The use of computers  — Many theory courses will include computa tional 
+exercises, generally using the programming language Python. Labs will also 
+require the use of computers.  
+ 
+Duration —  
+Theory courses: two lectures a week each lasting 1.5 hours. In addition, there 
+may be a 1.5 -hour tutorial per week . 
+ 
+Laboratory: one 3 -hour main lab session per week and one 3 -hour extra 
+session per week for lab course.  
+ 
+List  of Physics Courses  
+Compulsory/Core Courses  
+Mathematical Physics 1 (Gateway course: semester 2)  
+This course aims to familiarise the student with a variety of mathematical 
+techniques which every student of physics should be conversant with. Having 
+taken the course,  you should be comfortable with casting a wide variety of 
+physics problems in mathematical language and being able to analyse  and 
+solve them subsequently. The course will also include an introduction to 
+programming with Python. Within the physics curriculu m at Ashoka 
+university, this course is an essential prerequisite for Classical Mechanics 
+and Electricity and Magnetism in Light of Relativity offered in the third 
+semester.  
+ 
+Pre-requisites: Students who have not done mathematics at the 12th -grade 
+level are required to take Calculus I.                   6 
+Physics Lab 1 (Gateway course: semester 2)  
+An introduction to physics through experiments. The goal of this introductory 
+lab is to help students develop the skills needed for experimental physics. 
+Students  will be introduced to the basic concepts of data collection, analysis, 
+and interpretation over the span of the course by working on different 
+experimental problems which have been carefully selected to represent 
+different branches of physics.  
+ 
+Pre-requis ites: none.  
+ 
+Classical Mechanics (semester 3)   
+Newtonian mechanics and an introduction to Lagrangian  and Hamiltonian 
+mechanics. Newtonian mechanics is, both historically and otherwise, the 
+starting point of all of physics. The  Lagrangian and Hamiltonian formulations 
+of classical mechanics allow a more profound vision of the subject while also 
+introducing  the language in which much of higher -level theoretical physics is 
+expressed.  
+ 
+Pre-requisites: MP1  
+ 
+Electricity & Magnetism in Light of Relativity (semester 3 )  
+The beautiful theory of electricity and magnetism is, with classical mechanics, 
+the heart of c lassical physics. What is often not appreciated at the 
+undergraduate level is that electricity and magnetism are related in a way that 
+reveals the structure of space -time. In this course relativity will be used from 
+the beginning to relate electric and mag netic fields, so that their unity, as 
+components of the electromagnetic field are revealed and used in the study of 
+Maxwell’s Equations.  
+ 
+Pre-requisites: MP1  
+ 
+Physics Lab 2 (semester 3)   
+Designed to accompany the theory courses Classical Mechanics and Ele ctricity 
+& Magnetism in Light of Relativity, this laboratory course explores their 
+experimental foundations. Students will be introduced to video -analysis and 
+modelling to study elastic and inelastic collisions, uniformly accelerated 
+motion, and terminal v elocity. In addition, students will also be introduced to 
+physical systems exhibiting electromagnetic damping, resonant electronics 
+circuits, and two -dimensional electrostatics.  
+ 
+Pre-requisites: Physics Lab 1  
+ 
+                  7 
+Mathematical Physics 2 (semester 4 )  
+This mathematical physics course aims to be an introduction to differential 
+equations. Besides standard topics in ordinary and partial differential 
+equations, nonlinear dynamical systems will be studied and nonlinear ODEs 
+will be analysed using geometric a nd computational tools. Fourier series will 
+also be studied.  
+ 
+Pre-requisites: MP1  
+ 
+Thermal Physics (semester 4)   
+An Integrated Approach to Thermodynamics and Kinetic Theory. There are 
+three approaches to study systems with large numbers of atoms and 
+molec ules, which exhibit properties like temperature and entropy: kinetic 
+theory, classical thermodynamics, and statistical mechanics. In this course, 
+these three approaches will be taught in an integrated fashion.  
+ 
+Pre-requisites: Mathematical Physics 1.  
+ 
+Oscillations, Waves, and Optics (semester 4)   
+Oscillatory phenomena appear in all areas of physics, both classical and 
+quantum (to the point where a famous textbook begins by saying that the 
+domain of physics is all phenomena that can be reduced to coupled  
+oscillators). The methods used to study oscillatory motion are powerful and 
+wide -ranging in their utility.  
+ 
+Pre-requisites: MP1, Classical Mechanics and Electricity & Magnetism.  
+ 
+Physics Lab 3 (semester 4)   
+Designed to accompany the theory courses Therma l Physics and Oscillations, 
+Waves & Optics, this laboratory course explores their experimental 
+foundations.  Students will be introduced to the properties of light as a wave: 
+interference, diffraction, and polarisation, through conceptually rich 
+experiments  like the Michelson Interferometer. In addition, mechanical 
+systems which exhibit oscillatory behaviour, like coupled pendula and 
+capillary waves, will also be studied. Students will also be introduced to ideas 
+of thermometry and calibration.  
+ 
+Pre-requisi tes: Physics Lab I.  
+ 
+ 
+ 
+ 
+                  8 
+Quantum Mechanics (semester 5)   
+This course is an introduction to Quantum Mechanics (QM). Starting with a 
+historical introduction and motivation, it goes on to introduce probability 
+amplitudes as the fundamental physical basis for QM. Using the Dirac bra -ket 
+notation, the fundamental postulates are then introduced and their 
+consequences worked out. The basic physical concepts are illustrated through 
+spin -½ systems and one -dimensional wave mechanics. Symmetries and 
+Conservation laws in QM are discussed, an introduction to the basic theory of 
+angular momentum and spin is given, and the course culminates with the first 
+major triumph of QM - a quantum mechanical understanding of the hydrogen 
+atom.  
+ 
+Pre-requisites: Classical Mechanics, M athematical Physics I and II.  
+  
+Strongly recommended: Linear Algebra (Department of Mathematics).  
+ 
+Statistical Mechanics (semester 5)   
+Statistical mechanics allows one to solve problems involving large numbers of 
+particles by exploiting statistical regularities. When combined with quantum 
+mechanics, it helps physicists to understand some of the most fascinating 
+phenomena in the universe. This course is an introduction to the essential 
+concepts of the subject.  
+ 
+Pre-requisites: Thermal Physics.  
+ 
+Physics Lab 4 (semester 5)   
+Designed to accompany the two theory courses Quantum Mechanics and 
+Statistical Mechanics; this laboratory course explor es their experimental 
+foundations. Students will be introduced to some of the experiments which 
+require Quantum Mechanics in order to be explained, notably discrete atomic 
+spectra and the Zeeman Effect. The lab will also contain experiments on 
+Brownian Mot ion and the determination of other properties of matter like 
+magnetic susceptibility.  
+ 
+Pre-requisites: Physics Lab I.  
+ 
+The Physics of Matter (semester 6 )  
+In real physical systems the various areas of fundamental physics that are 
+studied separately in pre vious semesters are usually required all at once. The 
+purpose of this course is to show how fundamental physics can be used to 
+study a number of interesting phenomena.  
+ 
+Pre-requisites: All mandatory courses in the physics -major sequence.                   9 
+Elective Physics Courses  
+ 
+Elective courses (for the 3rd and 4th year) are listed below. Please refer to the 
+course webpage for further details. These courses may be at the advanced UG 
+or beginning graduate level. Note that all electives may not be offered every 
+year.  
+ 
+Quantum Mechanics 2 : a natural sequel to Quantum Mechanics in 
+semester 5.  
+ 
+Mathematical Physics 3 : focusing mainly on complex analysis and 
+integral transforms.  
+ 
+Computational Physics:  This course introduces different numerical 
+techniques useful in solving problems of interest in physics.  
+ 
+Cosmology  (first offered in Monsoon 2020 by Prof. Vikram Vyas)  
+ 
+Soft Matter Physics  (first offered in Monsoon 2020 by Prof. Gautam 
+Menon)  
+ 
+Non -equilibrium Statistical Mechanics  (first offered in Spring 
+2021 by Prof. Somendra Bhattacharjee)  
+ 
+Symmetry in Physics: Lie Algebras, Groups and 
+Representations  (first offered in Spring 2021 by Prof. Amin A. Nizami)  
+ 
+ 
+Cross -listed Elective Courses  
+ 
+Students can take, as electives, for cred it the following cross -listed 
+courses from other departments. They need to have taken the 
+required prerequisite courses or otherwise have consent from the 
+instructor . 
+ 
+PHY1001/ MAT1001: Linear Algebra (cross -listed with Department of 
+Mathematics)  
+ 
+PHY3513/  PHY6313/ BIO3513/ BIO6313: Computational and Mathematical 
+Biology (cross -listed with the Department of Biology.  
+ 
+PHY301/ BIO211: Biophysics (cross -listed with the Department of Biology )                  10 
+PHY3020/ BIO3020: Ecology (cross -listed with the Department of Biology)  
+ 
+PHY3314/BIO3314: Forces and Motion in Biology (cross -listed with the 
+Department of Biology)  
+  
+PHY1208/ CS1208: Probability and Statistics (cross -listed with the 
+Department of Computer Science)  
+ 
+PHY1101/ CS1101: Introduction to Programming (cross -listed with the 
+Department of Computer Science).  
+ 
+PHY1390/ CS1390: Introduction to Machine Learning (cross -listed with the 
+Department of Computer Science)  
+ 
+PHY3901/ ES3901: Remote Sensing (cross -listed with the Department of 
+Environmental Studies)  
+ 
+Physics ASP (Fourth Year)  
+The fourth year ASP provides t he opportunity for students to study physics at 
+a level more advanced than the usual undergraduate level. Alternatively, 
+students wishing to broaden their education further can use it to take a 
+minor/concentration in any other subject or simply take whatev er courses in 
+any department they wish to.  
+ 
+Advanced Major  
+The advanced major is for students intending to pursue higher studies and 
+research in physics. It would enable them to take some advanced physics 
+courses as well as get an idea of research through  the capstone project/thesis.  
+ 
+Requirements:   
+7th Semester:  Required to take 16 credits of which the capstone project 
+comprises 8 credits. The students can opt for 1 or 2 courses comprising 4 
+credits/course.  
+ 
+8th Semester:  Required to take 16 credits of which the capstone project 
+comprises 8 credits. The students can opt for 1 or 2 courses comprising 4 
+credits/course.  
+ 
+Over the whole year (2 semesters), some courses apart from Thesis may also 
+be taken from outside the physics department .                  11 
+Capstone Project  and Thesis:  
+ 
+Interested students should talk, in their 6th semester, to prospective advisors 
+about possible projects. After mutual agreement - the advisor agrees to guide 
+the student and the student agrees to work on one of the projects suggested 
+by the advisor - stude nts should start with necessary background reading / 
+preliminary work over the summer before the start of the fourth year.  
+ 
+At the end of the 7th semester the project would be assessed with a 
+presentation and report - this will be evaluated by the physics  faculty. 
+Students without satisfactory progress at this stage may not continue for the 
+thesis subsequently.  
+ 
+At the end of the 8th semester the thesis has to be submitted and defended 
+before a panel which may also include some external members. It is 
+mandatory to successfully complete the capstone project and thesis to be 
+eligible for the advanced major.  
+ 
+Other options (Minor/Concentration)  
+ 
+Students not opting for the advanced major can take courses as per their 
+interest in the fourth year. It is reco mmended that physics majors take two 
+physics electives over the year. Those minoring in physics (or taking it as a 
+concentration) may take physics courses accordingly to meet the necessary 
+requirements.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  12 
+TF/TA -ship Policy  
+❖ The Teaching Fellows are recruited after a departmental screening 
+process.  
+ 
+❖ Fourth year (ASP) physics students can be TAs for some of the 
+introductory physics courses. This depends on the departmental 
+requirement and the position may be offered either for credits or may 
+be a paid position.  
+ 
+❖ MLS students are assigned to be TAs as a part of their academic 
+requirements.  
+ 
+Independent Study Module (ISM)  
+❖ Students may opt for an ISM if interested and if a faculty member is 
+available for this purpose.  
+ 
+❖ A successfully completed ISM would contribute 2 to 4 credits to the 
+student’s GPA.  
+ 
+ 
+❖ Students who wish to take up an ISM should contact the Professor 
+under whose guidance they wish to work to discuss details.  
+ 
+ 
+ 
+                  13 
+Faculty   
+ 
+Somendra M. Bhattacharjee  
+Head of the Department, Physics  
+Professor of Physics  
+Ashoka University  
+Ph.D. Carnegie Mellon University  
+ 
+Mail :  somendra.bhattacharjee@ashoka.edu.in  
+ 
+Somendra Mohan Bhattacharjee received his Ph.D. in Physics from Carnegie 
+Mellon University, Pittsburgh, USA, B.  Sc in Physics (Honours) from 
+Presidency Colle ge, Calcutta, and M. Sc. in Physics from the University of 
+Calcutta. After doing post -doctoral research at the University of 
+Massachusettes, Amherst, USA, and Bell  Labs, Murray Hill, he joined the 
+Institute of Physics, Bhubaneswar as a faculty member and c ontinued till 
+April 2019.  
+His research interest is in theoretical condensed matter physics and biology -
+inspired physics mostly related to phase transitions.  The force -induced 
+unzipping transition of DNA is one of his most important contributions. He 
+is a fellow of the Indian National Science Academy and Indian Academy of 
+Sciences, and a J C Bose National Fellow. He was a Regular Associate of 
+ICTP, Trieste, Italy.  
+ 
+ 
+                 14 
+Sabyasachi Bhattacharya  
+C.V. Raman University Professor at Ashoka 
+University  
+Post -Doctoral Research, MIT  
+Ph.D. Northwestern University  
+ 
+Mail :  
+sabyasachi.bhattacharya@ashoka.edu.in  
+ 
+Professor Sabyasachi Bhattacharya is a physicist and works on dynamical 
+aspects of dis ordered condensed matter systems. He is a Distinguished 
+Professor at the Tata Institute of Fundamental Research (TIFR) of which he 
+was the former Director. Professor Bhattacharya received his B.Sc. at the 
+Presidency College, Kolkata, M.Sc. at the Universit y of Delhi, and his Ph.D. at 
+Northwestern University, all in Physics. He conducted post -doctoral research 
+at the National Magnet Laboratory at MIT, University of Rhode Island. He 
+was at the University of Chicago as a James Franck Distinguished Fellow 
+befor e joining the Exxon Corporate Research Laboratory. He subsequently 
+worked at the NEC Research Institute at Princeton where he was the Chair of 
+the NEC Board of Fellows.  
+Professor Bhattacharya currently serves, among other organizations, on the 
+Editorial Bo ard of the Reports on Progress in Physics, the Technology 
+Advisory Council of British Petroleum, the IIT -Council of the Ministry of 
+Human Resource Development and the Council of IIT -Bombay and the 
+Mentor Group of Presidency University, Kolkata. He is a fre quent visitor to 
+the New York University, the University of Chicago, the Cavendish 
+Laboratory and the Trinity College at the University of Cambridge. He is a 
+                 15 
+Fellow of the American Physical Society. Apart from Physics, he is interested 
+in higher education policy in India related specially to science and technology 
+research.  
+Professor Bhattacharya was a Non -Resident Senior Fellow at CASI from 
+September 2012 through August 2013.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  16 
+ 
+ 
+Gautam Menon  
+Professor of Physics and Biology,   
+Ashoka University.  
+ Ph.D. Indian Institute of Science, 
+Bangalore  
+ 
+Mail : gautam.menon@ashoka.edu.in  
+ 
+Gautam I Menon is a Professor of Physics and Biology at Ashoka University. 
+Prior to joining Ashoka, he was a Professor with the Theoretical Physics and 
+Computational Biology groups at the Institute of Mathematical Sciences, 
+Chennai, where he was the founding Dean of the Computational Biology 
+group. He is curren tly an adjunct Professor in the Department of Biological 
+Sciences at the Tata Institute of Fundamental Research, Mumbai, India.  
+He completed a BSc. (Hons) in Physics at St. Stephens College, Delhi,  an 
+MSc from IIT Kanpur, and a Ph.D. from the Indian Insti tute of Science, 
+Bangalore. Following post -doctoral work at the Tata Institute of 
+Fundamental Research in Mumbai and the Simon Fraser University in 
+Vancouver, Canada, he joined the Institute of Mathematical Sciences.  His 
+research work, spread over approxi mately 80 papers, covers a range of areas 
+in both physics and biophysics. He has written several articles on the 
+interface of science and society  as well as on science policy.  
+He was awarded a DST Fast Track Fellowship for Young Scientists in 2002 
+and the Swarnajayanti Fellowship of the DST in 2005. He was named a DAE -
+                 17 
+SRC Outstanding Research Investigator in 2010. He was named an 
+Outstanding Referee by the American Physical Society in 2012, as well as 
+recognized as an Outstanding Reviewer of the UK -based "R eports on 
+Progress in Physics" in 2016.  He was a Visiting Professor at the 
+Mechanobiology Institute and the Department of Biological Sciences at the 
+National University of Singapore between 2011 -2013.  He has served on 
+scientific review committees of seve ral international agencies , including the 
+Human Frontier Science Program and the Wellcome Trust -DBT India 
+Alliance. His research has been funded by several national and international 
+agencies, including the European Union, the Indo -French CEFIPRA as well 
+as the DBT, DST and DAE in India. He has lectured in universities and 
+scientific conferences around the world and in India, including in the USA, 
+Canada, France, Germany, Switzerland, Singapore, the Netherlands and the 
+UK. He was elected a Fellow of the Nat ional Academy of Sciences, India  in 
+2019.  
+He works on a number of biophysical problems including nuclear 
+architecture, axonal transport, collective cell migration and cell adhesion, all 
+in the general field of mechanobiology. The modeling of infectious di sease 
+and its implications for public policy is a long -standing interest of his, while 
+the use of machine learning methods in clinical contexts is a more recent one.  
+ 
+ 
+                  18 
+Amin Nizami  
+Assistant Professor of Physics,  
+Ashoka University  
+Ph.D. University of Cambridge  
+(Current Course coordinator of Physics)  
+ 
+Mail :  amin.nizami@ashoka.edu.in  
+ 
+Amin received his PhD in Theoretical Physics from the University of 
+Cambridge (working at the Department of Applied Mathematics and 
+Theoretical Physics). His main research interests include various aspects of 
+quantum  field theory, quantum chaos, quantum in formation and 
+holography. His main area of specialisation is in conformal field theory and 
+the conformal bootstrap.  
+ 
+Earlier he obtained his BSc in Physics (with Mathematics and Statistics) from 
+AMU, Aligarh, India and Masters (Part III of Mathematical Tr ipos) in 
+Theoretical Physics from the University of Cambridge . 
+ 
+Prior to joining Ashoka he was a postdoctoral fellow at the International 
+Centre for Theoretical Sciences ( ICTS -TIFR) and a research associate at the 
+Centre for High Energy Physics, Indian I nstitute of Science . 
+ 
+ 
+ 
+                 19 
+ 
+ 
+Pramoda Kumar  
+Ph.D. Coordinator of Physics,  
+Assistant Professor of Physics,  
+Ashoka University  
+Ph.D. Centre for Liquid Crystal Research 
+(renamed as Centre for Nano and Soft Matter Sciences), Bangalore  
+Mail :  pramoda.kumar@ashoka.edu.in  
+Research Experience:  
+● The Jacob Blaustein  Institutes for Desert Research - Ben Gurion 
+University of the Negev, Israel (Blaustein Postdoctoral Fellow Nov. 
+2015 - Feb. 2019)  
+●  Centre for Nano and Soft Matter Sciences, Bangalore (Visiting 
+Scientist, May 2015 – Sept. 2015)  
+● Harvard -School of Engineerin g and Applied Sciences, Cambridge 
+(Postdoctoral fellow, Sept. 2013 - Feb, 2015).  
+● Weizmann Institute of Science, Israel (Feinberg  Graduate School 
+Postdoctoral Fellow, Dec. 2012 – Aug. 2013)  
+● Max -Plank Institute for Dynamics and Self -Organization, Goettingen 
+(Postdoctoral Fellow, Sept. 2010 - Oct.2012)  
+Research Interest:  
+Experimental soft -condensed matter physics, pattern formation in 
+dissipative systems, interface instability, charge transport phenomena in ion -
+selective membranes, bio -physics and non -Newtonian  hydrodynamics  
+ 
+                 20 
+Frequently Asked Questions  
+ 
+1. What are going to be the mandatory courses to pursue a minor in Physics?  
+Answer: The gateway courses (Mathematical and Computational Toolkit and 
+Laboratory 1) are the mandatory courses to pursue a physics minor. Apart 
+from these two, the student is expected to take 4 courses of their choice. Of 
+these 4 courses at least two should be taken from among the other core 
+courses. The remaining two can be core or elective courses and one of them 
+can also be  an ISM. So, in total a student has to do 6 courses to complete a 
+minor in Physics.  
+ 
+2. What are the mandatory courses for a concentration in Physics?  
+Answer: The gateway courses (Mathematical and Computational Toolkit and 
+Laboratory 1) are the mandatory courses to pursue a physics concentration. 
+Apart from these two, the student is expected to take 2 courses of their choice 
+from among the core courses. So, in total a student has to do 4 courses to 
+complete a concentration in Physics.  
+  
+3. What are the man datory courses for the Ashoka Scholar Programme (ASP) 
+students?  
+Answer: A project (Capstone project) and the Capstone thesis are mandatory 
+for an Advanced Major in Physics.   
+ 
+                  21 
+4. Will the mandatory courses be offered every semester?  
+Answer: The mandatory gateway courses are offered in the spring semesters. 
+Other core courses are spread throughout the 6 semesters. All courses are not 
+offered in every semester.  
+ 
+5. What are the prerequisites to major in Physics?  
+Answer: The student is expected to have a sci ence/mathematics background 
+in their high school (at +2 level). Calculus is a recommended course to be 
+taken in their first semester.  
+ 
+6. I am interested in doing a TAship/writing a thesis although I’m not in my 
+fourth year as yet.  
+Answer: The current TAsh ip policy doesn't allow students (except 4th years) 
+to become TAs.  
+ 
+7. Who should I contact in case I have further questions?  
+Answer: You can reach out to the Academic Representative of the 
+Department.  
+  
+8. Is thesis mandatory for ASP students?  
+Answer: Thesis is mandatory for an Advanced Major in Physics.  See also Q 9. 
+                  22 
+9. Do the ASP 4th year count as an Advanced Major?  
+Answer: Yes. But only if the capstone project + thesis option is chosen. 
+Otherwise,  the fourth year may be used to get a double major / minor in 
+other subjects.  
+ 
+10. Will the labs be independent of the theory courses - in terms of number of 
+credits?  
+Answer: Yes. They are independent of the theory courses in terms of the 
+number of credits - 4 credits for each theory course or lab.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
