@@ -75,7 +75,7 @@ def generate_text(user_prompt:str, user_template:str=None, template_name:str=Non
     embeddings = initialize_embeddings()
     client = initialize_qdrant_client()
     doc_store = initialize_document_store(client, embeddings)
-    llm = OpenAI(temperature=0)
+    llm = HuggingFaceHub(repo_id='Open-Orca/OpenOrca-Platypus2-13B')
     helper = RetrievalQA.from_chain_type(
         llm=llm,
         chain_type='stuff',
