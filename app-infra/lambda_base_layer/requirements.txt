@@ -1,0 +1,11 @@
+fastapi
+mangum
+openai
+langchain
+requests
+qdrant
+pandas
+httpx
+sentence-transformers
+qdrant_client
+argeparse
