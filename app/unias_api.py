@@ -1,4 +1,4 @@
-from unias import generate_text, hard_template, initialise_llm, initialize_document_store
+from unias import generate_text, validate_input_length
 from fastapi import FastAPI, HTTPException
 from mangum import Mangum
 
@@ -6,13 +6,18 @@ MAX_LEN = 100
 app = FastAPI()
 handler = Mangum(app)
 
-@app.get("/generate_text")
-async def generate_text_api(user_prompt:str):
-    validate_length(user_prompt)
-    text = generate_text(user_input=user_prompt, template=hard_template(), llm= initialise_llm, Docstore= initialize_document_store())
-    return {"text":text}
-# uvicorn unias_api:app --reload  
+@app.get('/')
+async def root():
+    print({'message':'Hello'})
 
-def validate_length(user_prompt: str):
-    if len(user_prompt) >=  MAX_LEN:
-        raise HTTPException(status_code=400, detail="Input length is more than the limit") 
+@app.get("/generate_text")
+async def generate_text_api(user_prompt: str):
+    if not validate_input_length(user_prompt):
+        raise HTTPException(status_code=400, detail=f"Input length exceeds the limit of {MAX_LEN} characters")
+    
+    try:
+        text = generate_text(user_prompt)
+        return {"message": text}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"An error occurred: {str(e)}")
+

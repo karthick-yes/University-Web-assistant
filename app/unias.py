@@ -1,13 +1,11 @@
-import pandas as pd
 from dotenv import load_dotenv
 from langchain_community.vectorstores.qdrant import Qdrant
 from langchain_community.embeddings.huggingface import HuggingFaceEmbeddings
 import qdrant_client
-from httpx import Timeout
 import os
 import argparse
 from langchain_google_genai import GoogleGenerativeAI, GoogleGenerativeAIEmbeddings
-from langchain.chains import create_history_aware_retriever, create_retrieval_chain
+from langchain.chains import create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_core.prompts import PromptTemplate
 
@@ -28,17 +26,16 @@ def main():
 # initialise the embedding model
 def initialize_embeddings(model_name="models/embedding-001"):
     """initialize the embedding model."""
-    return GoogleGenerativeAIEmbeddings(model = model_name, task_type='retrieval_document')
+    return GoogleGenerativeAIEmbeddings(model = model_name, task_type='retrieval_document', google_api_key= os.getenv('GOOGLE_API_KEY'))
 # initialise the vector store client
 def initialize_qdrant_client():
     """initialize the qdrant client."""
     return qdrant_client.QdrantClient(
-        url=os.getenv('qdrant_host'),
-        api_key=os.getenv('qdrant_api_key'),
-        timeout=Timeout(timeout=None)
+        url=os.getenv('QDRANT_HOST'),
+        api_key=os.getenv('QDRANT_API_KEY'),
     )
 #initialise the document store for langchain
-def initialize_document_store(client = initialize_qdrant_client(), embeddings = initialize_embeddings(), collection_name="University_Assistant"):
+def initialize_document_store(client = initialize_qdrant_client(), embeddings = initialize_embeddings(), collection_name="University_assistant"):
     """initialize the document store."""
     doc_store = Qdrant(client=client, collection_name=collection_name, embeddings=embeddings)
     Doc_store = doc_store.as_retriever()
@@ -59,7 +56,7 @@ def hard_template():
     return template
 #initialise the llm model
 def initialise_llm():
-    llm = GoogleGenerativeAI(model = 'gemini-pro')
+    llm = GoogleGenerativeAI(model = 'gemini-pro', google_api_key= os.getenv('GOOGLE_API_KEY'))
     return llm
  #generate the answer
 def generate_text(user_input:str, template = hard_template(), llm = initialise_llm(), Docstore = initialize_document_store()):
@@ -68,9 +65,9 @@ def generate_text(user_input:str, template = hard_template(), llm = initialise_l
         combine_docs_chain = create_stuff_documents_chain(llm, prompt)
         retrieval_chain = create_retrieval_chain(Docstore, combine_docs_chain)
         response = retrieval_chain.invoke({"input": user_input})
-        print(response['answer'])
+        return response['answer']
     except Exception as e:
-        print(e)
+        raise Exception(f'Error generating the text: {str(e)}')
 
 if __name__ == '__main__':
     main()
