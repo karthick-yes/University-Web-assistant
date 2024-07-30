@@ -1,6 +1,5 @@
 from dotenv import load_dotenv
 from langchain_community.vectorstores.qdrant import Qdrant
-from langchain_community.embeddings.huggingface import HuggingFaceEmbeddings
 import qdrant_client
 import os
 import argparse
