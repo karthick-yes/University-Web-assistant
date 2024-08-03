@@ -17,7 +17,7 @@ const Form: React.FC<FormProps> = (props) => {
 
     return (
         <>
-        <p>Your University Assitant</p>
+        <p>Your University Assistant</p>
 
         <input type="text" 
         placeholder="Tell me about summer semester in ashoka?" 
