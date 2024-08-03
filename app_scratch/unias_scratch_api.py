@@ -5,6 +5,7 @@ from dotenv import load_dotenv
 from typing import List, Any
 import google.generativeai as genai
 from qdrant_client import QdrantClient
+from fastapi.middleware.cors import CORSMiddleware
 
 load_dotenv()
 genai.configure(api_key=os.getenv('GOOGLE_API_KEY'))
@@ -14,6 +15,13 @@ MAX_LEN = 300
 app = FastAPI()
 handler = Mangum(app)
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 class GenerateAnswer:
     def __init__(self, ai_model: str, embedding_model: str, client: Any, collection_name: str):
         self.model = ai_model
