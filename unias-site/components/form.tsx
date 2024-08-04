@@ -23,7 +23,7 @@ const Form: React.FC<FormProps> = (props) => {
     return (
         <>
         <div className="mb-6 text-slate-400">
-            <p>I'm an AI assistant with knowledge from Ashoka University's website and official sources. Ask me anything about Ashoka University.</p>
+            <p>I am an AI assistant with knowledge from Ashoka University's website and official sources. Ask me anything about Ashoka University.</p>
         </div>
         <input className="p-2 w-full rounded-md focus:outline-teal-400 focus:outline text-slate-800" type="text" 
         placeholder="Tell me about summer semester in ashoka?" 
