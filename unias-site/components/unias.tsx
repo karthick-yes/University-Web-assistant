@@ -3,6 +3,9 @@
 import React from 'react'
 import Form from './form';
 import Results from './result';
+
+
+
 const Uniai: React.FC = () => {
     const ENDPOINT: string = 'https://qtuknw51eg.execute-api.ap-south-1.amazonaws.com/prod/generate_answer';
     const CHARACTER_LIMIT: number = 100;
@@ -16,7 +19,7 @@ const Uniai: React.FC = () => {
         fetch(
             `${ENDPOINT}?query=${prompt}`)
         .then((res) => res.json())
-        .then(onResult);;
+        .then(onResult);
     };
 
     const onResult = (data:any) => {
@@ -39,12 +42,21 @@ const Uniai: React.FC = () => {
     } else {
         displayedElement = <Form prompt={prompt} setPrompt={setPrompt} onSubmit={onSubmit} isLoading={isLoading} characterLimit={CHARACTER_LIMIT}/>
     };
+    const gradientText =
+        "text-white text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-blue-500 font-light w-fit mx-auto";
 
     return (
-        <>
-        <h1>Uniai</h1> 
-        {displayedElement}
-        </>
+        <div className='h-screen flex'>
+        <div className='max-w-md m-auto p-2'>
+            <div className='bg-slate-900 p-6 rounded-md text-white'>
+            <div className='text-center my-6'>
+             <h1 className= {gradientText +' text-3xl'}>UniAi</h1>  
+            <div className={gradientText}>Your AI University Assistant</div>  
+            </div>
+            {displayedElement}
+            </div>
+        </div>
+        </div>
     );
 
 }
