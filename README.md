@@ -1,67 +1,61 @@
-# UniversityAI: Transforming Higher Education with AI-Powered Solutions
+# UniAi - Your AI University Assistant
 
-Welcome to the readme file for the UniversityAI project – an innovative initiative aimed at revolutionizing the university experience through AI-powered solutions. If you're seeking to develop a business model that caters specifically to universities and sets itself apart from tools like Microsoft Copilot 365, you're in the right place. UniversityAI offers a unique suite of features and capabilities tailored to the academic environment, addressing the diverse needs of students, professors, researchers, and administrators.
+UniAi is an AI-powered chatbot designed to quickly answer queries related to Ashoka University. It provides students, faculty, and staff with instant access to university information.
 
-## Project Overview
+## Features
 
-UniversityAI's core objective is to enhance the educational ecosystem within universities by providing a comprehensive set of AI-driven tools and services. These offerings are meticulously designed to optimize academic support, teaching and learning experiences, research collaboration, administrative efficiency, and more. Here are some of the standout propositions that set UniversityAI apart:
+- Instant responses to questions about Ashoka University
+- User-friendly chat interface
+- Powered by advanced AI language models
+- Comprehensive knowledge base covering university topics
 
-- **Tailored Academic Support**: Customize your solution to address the unique requirements of academia. Offer tools and guidance for research paper writing, literature reviews, data analysis, thesis preparation, and collaborative projects.
+## Technology Stack
 
-- **Virtual Teaching Assistant**: Develop an AI-powered virtual teaching assistant that personalizes guidance for students and aids professors in managing course materials and assessments.
+- Backend: Python, FastAPI
+- AI Model: Google Gemini AI
+- Vector Database: Qdrant
+- Embeddings: Google Embedding Model
+- Frontend: Next.js
+- Styling: Tailwind CSS
+- Hosting: AWS Lambda
 
-- **Academic Planning and Advising**: Create a system that empowers students to plan their academic journey effectively, select courses, and receive personalized recommendations for academic and career paths.
+## Usage
 
-- **Research Support**: Provide researchers with AI tools for literature search, data analysis, experiment planning, and publication writing, while integrating research databases and citation management tools.
+Check it out at: https://university-web-assistant.vercel.app/
 
-- **Campus Services Integration**: Seamlessly integrate with university systems to offer holistic solutions covering academic aspects, class registration, library resources, campus events, and student organizations.
+## Contributing
 
-- **Language Support**: Develop language support capabilities to assist non-native English speakers in enhancing language skills and academic communication.
+You can reach me out at: karthiksunil074@gmail.com
 
-- **Learning Analytics**: Implement learning analytics features to monitor student progress, identify areas needing support, and provide personalized recommendations.
+## Disclaimer
 
-- **Integration with LMS**: Seamlessly integrate with existing Learning Management Systems to ensure effortless adoption and accessibility.
+This project is not currently affiliated with or endorsed by Ashoka University. It is an independent project aimed at enhancing the university experience through AI technology. Any future integration with official university systems will be clearly communicated.
 
-- **Data-Driven Decision Making**: Equip universities with advanced analytics, data visualization, and insights to inform decisions on student performance, teaching effectiveness, and resource allocation.
+## License
 
-- **Seamless System Integration**: Ensure compatibility and data exchange between UniversityAI and existing university systems for optimized efficiency.
+## License
 
-## White Paper Insights
+This project is licensed under the Apache License 2.0.
 
-The attached white paper provides insightful perspectives on how UniversityAI addresses critical challenges in higher education. It highlights real-world scenarios and potential applications of the platform:
+Copyright [2024] [Karthik Sunil]
 
-- **Efficient Professor Discovery**: The platform simplifies the process of finding suitable professors for research inquiries, eliminating the need to sift through lengthy CVs. By leveraging natural language, students can swiftly narrow down professors based on their research interests.
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-- **Student Empowerment**: UniversityAI can guide students through their academic journey, helping them choose suitable courses and degree paths by analyzing past student choices and academic pathways.
+http://www.apache.org/licenses/LICENSE-2.0
 
-- **Administrative Support**: The platform extends beyond student and professor engagement, aiding administrative tasks such as attendance tracking, budget planning, and internal administrative matters.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the [LICENSE](LICENSE) file for the full license text.
+## Upcoming Updates Checklist
 
-- **Data Security**: UniversityAI ensures data security by limiting access based on user roles, preventing unauthorized access to sensitive information.
+- [ ] Automate data scraping process
+- [ ] Implement script for automated database updates
+- [ ] Enhance to conversational RAG (Retrieval-Augmented Generation) model
+- [ ] [Add any other planned features or improvements]
 
-## Key Differentiators
-
-UniversityAI stands out from Microsoft Copilot and similar solutions in several ways:
-
-- **Tailored for Universities**: UniversityAI is explicitly designed for the unique challenges and needs of the academic environment, catering to students, professors, researchers, and administrators.
-
-- **University Data Integration**: UniversityAI harnesses institutional data to provide tailored solutions, setting it apart from Copilot's reliance on Microsoft 365 services.
-
-- **Student-Centric Approach**: UniversityAI prioritizes student support and empowerment, helping them plan their academic paths and providing personalized recommendations.
-
-- **Administrative Emphasis**: UniversityAI extends its benefits to administrative tasks, such as budget planning and resource management, distinguishing it from Copilot's focus on business contexts.
-
-- **Confidential Data Handling**: UniversityAI acknowledges the potential of generative AI for confidential data handling in administrative matters.
-
-## Tech Stack
-
-UniversityAI's tech stack includes a powerful combination of technologies:
-
-- **Python, Node.js**: For backend and frontend development.
-- **Langchain**: For natural language processing and understanding.
-- **Qdrant Vector Store**: For efficient storage and retrieval of vectors used in AI operations.
-- **OpenAI, Hugging Face**: For AI capabilities and language models.
-- **FastAPI**: For building APIs and web services.
-- **AWS Lambda**: For serverless computing.
-- **Tailwind CSS**: For responsive and elegant UI design.
-
-**Note:** The UniversityAI project is currently in its initial stages of development. While many features and capabilities are already in place, additional functionalities are under active development and will be added in future updates.
+## Contact
+Email: karthiksunil074@gmail.com
+Linkedin: https://www.linkedin.com/in/karthik-sunil-89919a220/
