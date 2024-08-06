@@ -43,7 +43,7 @@ const Uniai: React.FC = () => {
         displayedElement = <Form prompt={prompt} setPrompt={setPrompt} onSubmit={onSubmit} isLoading={isLoading} characterLimit={CHARACTER_LIMIT}/>
     };
     const gradientText =
-        "text-white text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-blue-500 font-light w-fit mx-auto";
+        " text-transparent bg-clip-text bg-gradient-to-r from-teal-400 to-blue-500 font-light w-fit mx-auto";
 
     return (
         <div className='h-screen flex'>
@@ -54,10 +54,12 @@ const Uniai: React.FC = () => {
             <div className={gradientText}>Your AI University Assistant</div>  
             </div>
             {displayedElement}
-            </div>
+            </div>   
+      <footer className={gradientText + ' p-20 text'}>Developed By <a href ='https://github.com/karthick-yes'>Karthik</a></footer>
         </div>
         </div>
     );
+
 
 }
 
