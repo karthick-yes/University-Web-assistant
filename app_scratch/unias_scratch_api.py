@@ -60,7 +60,7 @@ class GenerateAnswer:
         context_list = self.similaritySearch(query, score_threshold=0.3)
         context = "\n".join(context_list)
         template = f"""
-        You are a helpful AI assistant for university students.
+        You are a helpful AI assistant for university students. Converse with them normally like an AI, if they say hi, reply with a good message.Be as conversational as you can.
         Answer based on the context provided.
         Context: {context}
         Input: {query}
