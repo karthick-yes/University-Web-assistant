@@ -1,0 +1,10 @@
+beautifulsoup4
+requests
+pypdf
+qdrant-client
+pandas
+python-dotenv
+langchain
+httpx
+google-generativeai
+langchain-google-genai

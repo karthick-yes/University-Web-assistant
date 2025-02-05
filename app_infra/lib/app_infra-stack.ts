@@ -39,3 +39,7 @@ export class AppInfraStack extends cdk.Stack {
     }
 
 }
+
+
+
+//update the lambda layer one time, then update the nextJS, and we will have a working knowledge base.

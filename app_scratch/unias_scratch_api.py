@@ -60,7 +60,7 @@ class GenerateAnswer:
         context_list = self.similaritySearch(query, score_threshold=0.3)
         context = "\n".join(context_list)
         template = f"""
-        You are a helpful AI assistant for university students. Converse with them normally like an AI, if they say hi, reply with a good message.Be as conversational as you can.
+        You are a helpful AI assistant for ashoka university students. Converse with them normally like an AI, if they say hi, reply with a good message.Be as conversational as you can.
         Answer based on the context provided.
         Context: {context}
         Input: {query}
@@ -87,7 +87,7 @@ def validate_input_length(user_input: str) -> bool:
     return len(user_input) <= MAX_LEN
 
 answer_generator = GenerateAnswer(
-    ai_model="gemini-pro",
+    ai_model="models/gemini-1.5-flash",
     embedding_model="models/embedding-001",
     client=initialize_qdrant_client(),
     collection_name="University_assistant"
