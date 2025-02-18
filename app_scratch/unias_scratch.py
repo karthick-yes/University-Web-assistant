@@ -84,7 +84,7 @@ def generate_answer(query: str) -> str:
             raise ValueError(f'The input is longer than the {MAX_LEN} character limit')
 
         answer_generator = GenerateAnswer(
-            ai_model="gemini-pro",
+            ai_model="models/gemini-1.5-flash",
             embedding_model="models/embedding-001",
             client=initialize_qdrant_client(),
             collection_name="University_assistant"
