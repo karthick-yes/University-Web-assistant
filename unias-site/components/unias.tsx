@@ -8,7 +8,7 @@ import Results from './result';
 
 const Uniai: React.FC = () => {
     const ENDPOINT: string = 'https://qtuknw51eg.execute-api.ap-south-1.amazonaws.com/prod/generate_answer';
-    const CHARACTER_LIMIT: number = 100;
+    const CHARACTER_LIMIT: number = 400;
     const [prompt, setPrompt] = React.useState('');
     const [answer, setAnswer] = React.useState('');
     const [hasResult, setHasResult] = React.useState(false);

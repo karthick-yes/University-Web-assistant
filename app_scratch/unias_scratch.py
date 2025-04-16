@@ -47,11 +47,11 @@ class GenerateAnswer:
 
     def promptTemplate(self, query: str) -> str:
         """Generate a prompt template with context."""
-        context_list = self.similaritySearch(query, score_threshold=0.3)
+        context_list = self.similaritySearch(query, score_threshold=0.5)
         context = "\n".join(context_list)
-        template = f"""
-        You are a helpful AI assistant for university students.
-        Answer based on the context provided.
+        template =  f"""
+        You are a helpful AI assistant for ashoka university students. Converse with them normally like an AI, if they say hi, reply with a good message.Be as conversational as you can.
+        Answer based on the context provided. There is also metdata included, make use of that metadata, talk about the sources also.
         Context: {context}
         Input: {query}
         Answer:
@@ -84,10 +84,10 @@ def generate_answer(query: str) -> str:
             raise ValueError(f'The input is longer than the {MAX_LEN} character limit')
 
         answer_generator = GenerateAnswer(
-            ai_model="models/gemini-1.5-flash",
+            ai_model="models/gemini-2.0-flash-exp",
             embedding_model="models/embedding-001",
             client=initialize_qdrant_client(),
-            collection_name="University_assistant"
+            collection_name="University_assistant2"
         )
 
         return answer_generator.cookAnswer(query)

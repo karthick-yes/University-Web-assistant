@@ -9,6 +9,8 @@ interface Resultsprompts {
 }
 
 const Results: React.FC<Resultsprompts> = (props) => {
+  console.log('Answer prop:', props.answer); // Debugging line to print the answer
+
   const resultSelection = (label: string, body: React.ReactNode) => {
     return (
       <div className="bg-slate-700 p-4 my-2 rounded-md">
@@ -27,7 +29,6 @@ const Results: React.FC<Resultsprompts> = (props) => {
           'Prompt',
           <div className="text-md font-bold">{props.prompt}</div>
         )}
-
         {resultSelection(
           'Answer',
           // Render the markdown content as HTML

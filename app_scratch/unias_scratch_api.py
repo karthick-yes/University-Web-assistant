@@ -57,11 +57,11 @@ class GenerateAnswer:
             return []
 
     def promptTemplate(self, query: str) -> str:
-        context_list = self.similaritySearch(query, score_threshold=0.3)
+        context_list = self.similaritySearch(query, score_threshold=0.5)
         context = "\n".join(context_list)
         template = f"""
         You are a helpful AI assistant for ashoka university students. Converse with them normally like an AI, if they say hi, reply with a good message.Be as conversational as you can.
-        Answer based on the context provided.
+        Answer based on the context provided. There is also metdata included, make use of that metadata, talk about the sources also.
         Context: {context}
         Input: {query}
         Answer:
@@ -87,10 +87,10 @@ def validate_input_length(user_input: str) -> bool:
     return len(user_input) <= MAX_LEN
 
 answer_generator = GenerateAnswer(
-    ai_model="models/gemini-1.5-flash",
+    ai_model="models/gemini-2.0-flash-exp",
     embedding_model="models/embedding-001",
     client=initialize_qdrant_client(),
-    collection_name="University_assistant"
+    collection_name="University_assistant2"
 )
 
 @app.get("/generate_answer")

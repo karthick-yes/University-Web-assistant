@@ -3,7 +3,7 @@ import requests
 import io
 from urllib.parse import urlparse, quote
 import PyPDF2
-urls = ["https://ashoka.edu.in/wp-content/uploads/2021/06/CS-Students_-Guide.pdf"]
+urls = ["https://ashoka.edu.in/wp-content/uploads/2021/06/ENT-handbook-2021-22.docx.pdf"]
 def pdf_to_text(pdf_content):
     pdf_file = io.BytesIO(pdf_content)
     pdf_reader = PyPDF2.PdfReader(pdf_file)
